@@ -1,0 +1,5008 @@
+
+vocabulary size: 9314
+deletion
+train -> trin
+word: train ->trin
+['trip', 'tran', 'train']
+[0, 0, 1]
+deletion
+true -> rue
+word: true ->rue
+['que', 're', 'run']
+[0, 0, 0]
+transposition
+opened -> popened
+word: opened ->popened
+['opened']
+[1, 1, 1]
+deletion
+ruining -> ruinin
+word: ruining ->ruinin
+['ruining']
+[1, 1, 1]
+replacement
+bewitchment -> bawitchment
+word: bewitchment ->bawitchment
+['bewitchment']
+[1, 1, 1]
+insertion
+construction -> constructiosn
+word: construction ->constructiosn
+['construction', 'constructions']
+[1, 1, 1]
+replacement
+interpret -> nnterpret
+word: interpret ->nnterpret
+['interpret']
+[1, 1, 1]
+replacement
+cardiovascular -> cardiovascuaar
+word: cardiovascular ->cardiovascuaar
+['cardiovascular']
+[1, 1, 1]
+insertion
+safely -> safelyt
+word: safely ->safelyt
+['safely']
+[1, 1, 1]
+transposition
+ceaselessly -> cesaselessly
+word: ceaselessly ->cesaselessly
+['ceaselessly']
+[1, 1, 1]
+insertion
+punishable -> punishabled
+word: punishable ->punishabled
+['punishable']
+[1, 1, 1]
+replacement
+keep -> ceep
+word: keep ->ceep
+['keep', 'deep']
+[1, 1, 1]
+insertion
+duty -> dujty
+word: duty ->dujty
+['dusty', 'duty']
+[0, 1, 1]
+transposition
+discontinuation -> dsiscontinuation
+word: discontinuation ->dsiscontinuation
+['discontinuation']
+[1, 1, 1]
+transposition
+enlightenment -> enilightenment
+word: enlightenment ->enilightenment
+['enlightenment']
+[1, 1, 1]
+transposition
+uplift -> uplitft
+word: uplift ->uplitft
+['uplift']
+[1, 1, 1]
+transposition
+trained -> trainded
+word: trained ->trainded
+['trained']
+[1, 1, 1]
+replacement
+grown -> grvwn
+word: grown ->grvwn
+['grown']
+[1, 1, 1]
+transposition
+online -> nonline
+word: online ->nonline
+['online']
+[1, 1, 1]
+deletion
+yuan -> yan
+word: yuan ->yan
+['yan', 'lan', 'van']
+[0, 0, 0]
+deletion
+battle -> battl
+word: battle ->battl
+['battle']
+[1, 1, 1]
+replacement
+trying -> tryiyg
+word: trying ->tryiyg
+['trying']
+[1, 1, 1]
+insertion
+commissioned -> commisosioned
+word: commissioned ->commisosioned
+['commissioned']
+[1, 1, 1]
+insertion
+marx -> mharx
+word: marx ->mharx
+['marx']
+[1, 1, 1]
+deletion
+absurd -> asurd
+word: absurd ->asurd
+['absurd']
+[1, 1, 1]
+insertion
+macedia -> mtacedia
+word: macedia ->mtacedia
+['macedia']
+[1, 1, 1]
+replacement
+colorings -> folorings
+word: colorings ->folorings
+['colorings']
+[1, 1, 1]
+replacement
+overnight -> zvernight
+word: overnight ->zvernight
+['overnight']
+[1, 1, 1]
+transposition
+dispute -> dipspute
+word: dispute ->dipspute
+['dispute']
+[1, 1, 1]
+replacement
+calendar -> nalendar
+word: calendar ->nalendar
+['calendar']
+[1, 1, 1]
+transposition
+terminal -> termninal
+word: terminal ->termninal
+['terminal']
+[1, 1, 1]
+transposition
+distance -> idistance
+word: distance ->idistance
+['distance']
+[1, 1, 1]
+transposition
+broadcasts -> broadcsasts
+word: broadcasts ->broadcsasts
+['broadcasts']
+[1, 1, 1]
+replacement
+deng -> deng
+word: deng ->deng
+['deng', 'zeng', 'geng']
+[1, 1, 1]
+deletion
+news -> ews
+word: news ->ews
+['news']
+[1, 1, 1]
+replacement
+dragon -> dragok
+word: dragon ->dragok
+['dragon']
+[1, 1, 1]
+insertion
+expense -> expensae
+word: expense ->expensae
+['expense']
+[1, 1, 1]
+replacement
+software -> softcare
+word: software ->softcare
+['software']
+[1, 1, 1]
+transposition
+raises -> riaises
+word: raises ->riaises
+['raises']
+[1, 1, 1]
+insertion
+kelly -> kellky
+word: kelly ->kellky
+['kelly']
+[1, 1, 1]
+insertion
+forcibly -> forciblyv
+word: forcibly ->forciblyv
+['forcibly']
+[1, 1, 1]
+deletion
+pitak -> ptak
+word: pitak ->ptak
+['pitak', 'peak']
+[1, 1, 1]
+deletion
+tensions -> ensions
+word: tensions ->ensions
+['pensions', 'tensions']
+[0, 1, 1]
+insertion
+election -> electionw
+word: election ->electionw
+['election', 'elections']
+[1, 1, 1]
+insertion
+strongly -> stprongly
+word: strongly ->stprongly
+['strongly']
+[1, 1, 1]
+insertion
+right -> righnt
+word: right ->righnt
+['right']
+[1, 1, 1]
+insertion
+perfect -> perfecta
+word: perfect ->perfecta
+['perfect']
+[1, 1, 1]
+deletion
+grew -> rew
+word: grew ->rew
+['grew', 're', 'raw']
+[1, 1, 1]
+replacement
+make -> vake
+word: make ->vake
+['make', 'wake', 'fake']
+[1, 1, 1]
+replacement
+discuss -> disczss
+word: discuss ->disczss
+['discuss']
+[1, 1, 1]
+deletion
+heavyweight -> eavyweight
+word: heavyweight ->eavyweight
+['heavyweight']
+[1, 1, 1]
+deletion
+spirit -> sprit
+word: spirit ->sprit
+['split', 'spit', 'spirit']
+[0, 0, 1]
+transposition
+sino -> siono
+word: sino ->siono
+['sino']
+[1, 1, 1]
+insertion
+ships -> shaips
+word: ships ->shaips
+['ships']
+[1, 1, 1]
+insertion
+draw -> dpraw
+word: draw ->dpraw
+['draw']
+[1, 1, 1]
+insertion
+contemptible -> contemphtible
+word: contemptible ->contemphtible
+['contemptible']
+[1, 1, 1]
+replacement
+laboratories -> laboratrries
+word: laboratories ->laboratrries
+['laboratories']
+[1, 1, 1]
+deletion
+yugoslav -> yugosav
+word: yugoslav ->yugosav
+['yugoslav']
+[1, 1, 1]
+insertion
+care -> ccare
+word: care ->ccare
+['care']
+[1, 1, 1]
+deletion
+migration -> mgration
+word: migration ->mgration
+['migration']
+[1, 1, 1]
+transposition
+enabling -> nenabling
+word: enabling ->nenabling
+['enabling']
+[1, 1, 1]
+transposition
+publication -> pulblication
+word: publication ->pulblication
+['publication']
+[1, 1, 1]
+transposition
+expansion -> exapansion
+word: expansion ->exapansion
+['expansion']
+[1, 1, 1]
+deletion
+those -> thoe
+word: those ->thoe
+['the', 'those']
+[0, 1, 1]
+insertion
+workers -> workenrs
+word: workers ->workenrs
+['workers']
+[1, 1, 1]
+transposition
+prior -> proior
+word: prior ->proior
+['prior']
+[1, 1, 1]
+replacement
+ensure -> enuure
+word: ensure ->enuure
+['ensure', 'endure']
+[1, 1, 1]
+transposition
+summit -> usummit
+word: summit ->usummit
+['summit']
+[1, 1, 1]
+replacement
+spot -> swot
+word: spot ->swot
+['spot', 'shot']
+[1, 1, 1]
+transposition
+american -> amercican
+word: american ->amercican
+['american']
+[1, 1, 1]
+replacement
+peanuts -> pdanuts
+word: peanuts ->pdanuts
+['peanuts']
+[1, 1, 1]
+transposition
+unremitting -> unremittting
+word: unremitting ->unremittting
+['unremitting']
+[1, 1, 1]
+replacement
+mix -> mgx
+word: mix ->mgx
+['mix']
+[1, 1, 1]
+deletion
+enhancement -> enhanement
+word: enhancement ->enhanement
+['enhancement']
+[1, 1, 1]
+transposition
+accuracy -> accuaracy
+word: accuracy ->accuaracy
+['accuracy']
+[1, 1, 1]
+replacement
+attacks -> attvcks
+word: attacks ->attvcks
+['attacks']
+[1, 1, 1]
+deletion
+concepts -> conceps
+word: concepts ->conceps
+['concept', 'concepts']
+[0, 1, 1]
+replacement
+wenyuan -> fenyuan
+word: wenyuan ->fenyuan
+['wenyuan']
+[1, 1, 1]
+deletion
+exhorted -> exhortd
+word: exhorted ->exhortd
+['exhorted']
+[1, 1, 1]
+transposition
+smashed -> msmashed
+word: smashed ->msmashed
+['smashed']
+[1, 1, 1]
+deletion
+gratina -> graina
+word: gratina ->graina
+['gratina', 'grain', 'grains']
+[1, 1, 1]
+insertion
+pour -> pmour
+word: pour ->pmour
+['pour']
+[1, 1, 1]
+replacement
+troubles -> tboubles
+word: troubles ->tboubles
+['troubles']
+[1, 1, 1]
+deletion
+plenary -> pleary
+word: plenary ->pleary
+['plenary']
+[1, 1, 1]
+transposition
+ezhou -> ehzhou
+word: ezhou ->ehzhou
+['ezhou']
+[1, 1, 1]
+transposition
+failures -> failurses
+word: failures ->failurses
+['failures']
+[1, 1, 1]
+transposition
+innocent -> innoecent
+word: innocent ->innoecent
+['innocent']
+[1, 1, 1]
+replacement
+eagle -> eagee
+word: eagle ->eagee
+['eagle']
+[1, 1, 1]
+replacement
+covering -> coverilg
+word: covering ->coverilg
+['covering']
+[1, 1, 1]
+replacement
+loudly -> losdly
+word: loudly ->losdly
+['loudly']
+[1, 1, 1]
+transposition
+shielding -> hshielding
+word: shielding ->hshielding
+['shielding']
+[1, 1, 1]
+replacement
+ministries -> ministrwes
+word: ministries ->ministrwes
+['ministries']
+[1, 1, 1]
+insertion
+reforms -> refojrms
+word: reforms ->refojrms
+['reforms']
+[1, 1, 1]
+deletion
+accuracy -> ccuracy
+word: accuracy ->ccuracy
+['accuracy']
+[1, 1, 1]
+replacement
+prosecuting -> prcsecuting
+word: prosecuting ->prcsecuting
+['prosecuting']
+[1, 1, 1]
+transposition
+defying -> deyfying
+word: defying ->deyfying
+['defying']
+[1, 1, 1]
+transposition
+voices -> vocices
+word: voices ->vocices
+['voices']
+[1, 1, 1]
+replacement
+released -> remeased
+word: released ->remeased
+['released']
+[1, 1, 1]
+insertion
+zeng -> zenig
+word: zeng ->zenig
+['zeng']
+[1, 1, 1]
+deletion
+awe -> we
+word: awe ->we
+['we', 'w', 'le']
+[0, 0, 0]
+transposition
+tactically -> tatctically
+word: tactically ->tatctically
+['tactically']
+[1, 1, 1]
+deletion
+surrounding -> srrounding
+word: surrounding ->srrounding
+['surrounding']
+[1, 1, 1]
+insertion
+urgent -> urgenct
+word: urgent ->urgenct
+['urgent', 'urgency']
+[1, 1, 1]
+replacement
+addict -> vddict
+word: addict ->vddict
+['addict']
+[1, 1, 1]
+deletion
+marketing -> marketin
+word: marketing ->marketin
+['marketing']
+[1, 1, 1]
+insertion
+uzbekistan -> uzbekisdtan
+word: uzbekistan ->uzbekisdtan
+['uzbekistan']
+[1, 1, 1]
+transposition
+makiko -> mkakiko
+word: makiko ->mkakiko
+['makiko']
+[1, 1, 1]
+replacement
+cheerfully -> cheeffully
+word: cheerfully ->cheeffully
+['cheerfully']
+[1, 1, 1]
+transposition
+xoceco -> oxoceco
+word: xoceco ->oxoceco
+['xoceco']
+[1, 1, 1]
+transposition
+geological -> gelological
+word: geological ->gelological
+['geological']
+[1, 1, 1]
+replacement
+exactly -> exuctly
+word: exactly ->exuctly
+['exactly']
+[1, 1, 1]
+insertion
+resigned -> reusigned
+word: resigned ->reusigned
+['resigned']
+[1, 1, 1]
+transposition
+two -> towo
+word: two ->towo
+['two', 'too', 'town']
+[1, 1, 1]
+replacement
+resettling -> resetyling
+word: resettling ->resetyling
+['resettling']
+[1, 1, 1]
+replacement
+dependants -> dependantn
+word: dependants ->dependantn
+['dependants']
+[1, 1, 1]
+insertion
+civilization -> civimlization
+word: civilization ->civimlization
+['civilization']
+[1, 1, 1]
+replacement
+psychology -> psbchology
+word: psychology ->psbchology
+['psychology']
+[1, 1, 1]
+transposition
+unsafe -> usnsafe
+word: unsafe ->usnsafe
+['unsafe']
+[1, 1, 1]
+transposition
+wentai -> wenatai
+word: wentai ->wenatai
+['wentai']
+[1, 1, 1]
+deletion
+bases -> bses
+word: bases ->bses
+['uses', 'bases']
+[0, 1, 1]
+replacement
+exhibition -> exaibition
+word: exhibition ->exaibition
+['exhibition']
+[1, 1, 1]
+deletion
+zhuoga -> huoga
+word: zhuoga ->huoga
+['zhuoga']
+[1, 1, 1]
+insertion
+interesting -> intyeresting
+word: interesting ->intyeresting
+['interesting']
+[1, 1, 1]
+deletion
+anduo -> nduo
+word: anduo ->nduo
+['anduo']
+[1, 1, 1]
+deletion
+neglect -> neglct
+word: neglect ->neglct
+['neglect']
+[1, 1, 1]
+transposition
+lives -> livses
+word: lives ->livses
+['lives']
+[1, 1, 1]
+deletion
+garrison -> arrison
+word: garrison ->arrison
+['garrison']
+[1, 1, 1]
+transposition
+diocese -> diocsese
+word: diocese ->diocsese
+['diocese']
+[1, 1, 1]
+replacement
+white -> whnte
+word: white ->whnte
+['white']
+[1, 1, 1]
+deletion
+ilya -> ila
+word: ilya ->ila
+['la', 'pla', 'ill']
+[0, 0, 0]
+transposition
+shoulder -> shuoulder
+word: shoulder ->shuoulder
+['shoulder']
+[1, 1, 1]
+transposition
+toured -> tourded
+word: toured ->tourded
+['toured']
+[1, 1, 1]
+insertion
+declarations -> dueclarations
+word: declarations ->dueclarations
+['declarations']
+[1, 1, 1]
+replacement
+goodwill -> goodwilx
+word: goodwill ->goodwilx
+['goodwill']
+[1, 1, 1]
+deletion
+stored -> tored
+word: stored ->tored
+['stored', 'toured']
+[1, 1, 1]
+replacement
+castro -> kastro
+word: castro ->kastro
+['castro']
+[1, 1, 1]
+replacement
+desperate -> despeuate
+word: desperate ->despeuate
+['desperate']
+[1, 1, 1]
+insertion
+pressing -> preossing
+word: pressing ->preossing
+['pressing']
+[1, 1, 1]
+transposition
+ceased -> cesased
+word: ceased ->cesased
+['ceased']
+[1, 1, 1]
+replacement
+wrote -> wrhte
+word: wrote ->wrhte
+['wrote', 'write']
+[1, 1, 1]
+replacement
+absolutely -> absolutedy
+word: absolutely ->absolutedy
+['absolutely']
+[1, 1, 1]
+insertion
+protecting -> protebcting
+word: protecting ->protebcting
+['protecting']
+[1, 1, 1]
+transposition
+reimbursement -> reimbursemnent
+word: reimbursement ->reimbursemnent
+['reimbursement']
+[1, 1, 1]
+deletion
+condemns -> codemns
+word: condemns ->codemns
+['condemns']
+[1, 1, 1]
+insertion
+averaging -> averanging
+word: averaging ->averanging
+['averaging']
+[1, 1, 1]
+deletion
+entity -> entiy
+word: entity ->entiy
+['entry', 'entity']
+[0, 1, 1]
+transposition
+negative -> negtative
+word: negative ->negtative
+['negative']
+[1, 1, 1]
+transposition
+marvelous -> marevelous
+word: marvelous ->marevelous
+['marvelous']
+[1, 1, 1]
+insertion
+shubei -> shubeyi
+word: shubei ->shubeyi
+['shubei']
+[1, 1, 1]
+insertion
+fines -> finesb
+word: fines ->finesb
+['fines']
+[1, 1, 1]
+deletion
+household -> househld
+word: household ->househld
+['household']
+[1, 1, 1]
+deletion
+controlled -> controled
+word: controlled ->controled
+['controlled']
+[1, 1, 1]
+replacement
+afternoon -> gfternoon
+word: afternoon ->gfternoon
+['afternoon']
+[1, 1, 1]
+insertion
+natural -> nateural
+word: natural ->nateural
+['natural']
+[1, 1, 1]
+replacement
+fbi -> fki
+word: fbi ->fki
+['fbi', 'fei']
+[1, 1, 1]
+replacement
+newspapers -> nebspapers
+word: newspapers ->nebspapers
+['newspapers']
+[1, 1, 1]
+replacement
+deeds -> depds
+word: deeds ->depds
+['deeds', 'depts']
+[1, 1, 1]
+deletion
+kangsai -> kangai
+word: kangsai ->kangai
+['kangsai']
+[1, 1, 1]
+transposition
+iis -> isis
+word: iis ->isis
+['iis', 'isms']
+[1, 1, 1]
+deletion
+copyrights -> copyrihts
+word: copyrights ->copyrihts
+['copyrights']
+[1, 1, 1]
+transposition
+vigilance -> vigilanece
+word: vigilance ->vigilanece
+['vigilance']
+[1, 1, 1]
+insertion
+ready -> vready
+word: ready ->vready
+['ready']
+[1, 1, 1]
+deletion
+cautiously -> cauiously
+word: cautiously ->cauiously
+['cautiously']
+[1, 1, 1]
+transposition
+stressed -> stresesed
+word: stressed ->stresesed
+['stressed']
+[1, 1, 1]
+replacement
+becomingly -> bacomingly
+word: becomingly ->bacomingly
+['becomingly']
+[1, 1, 1]
+deletion
+borubayev -> borubaye
+word: borubayev ->borubaye
+['borubayev']
+[1, 1, 1]
+transposition
+errors -> errosrs
+word: errors ->errosrs
+['errors']
+[1, 1, 1]
+deletion
+lanqing -> laqing
+word: lanqing ->laqing
+['laying', 'lanqing']
+[0, 1, 1]
+insertion
+conceptual -> concteptual
+word: conceptual ->concteptual
+['conceptual']
+[1, 1, 1]
+replacement
+xuchu -> xucyu
+word: xuchu ->xucyu
+['xuchu']
+[1, 1, 1]
+replacement
+components -> compocents
+word: components ->compocents
+['components']
+[1, 1, 1]
+deletion
+enterprising -> enterrising
+word: enterprising ->enterrising
+['enterprising']
+[1, 1, 1]
+insertion
+parliament -> parlixament
+word: parliament ->parlixament
+['parliament']
+[1, 1, 1]
+transposition
+consider -> consdider
+word: consider ->consdider
+['consider']
+[1, 1, 1]
+insertion
+existence -> existencre
+word: existence ->existencre
+['existence']
+[1, 1, 1]
+transposition
+acute -> cacute
+word: acute ->cacute
+['acute']
+[1, 1, 1]
+deletion
+decadent -> decadnt
+word: decadent ->decadnt
+['decadent']
+[1, 1, 1]
+replacement
+strict -> striut
+word: strict ->striut
+['strict']
+[1, 1, 1]
+transposition
+decided -> decdided
+word: decided ->decdided
+['decided']
+[1, 1, 1]
+deletion
+swindling -> swindlng
+word: swindling ->swindlng
+['swindling']
+[1, 1, 1]
+deletion
+adviser -> advier
+word: adviser ->advier
+['adviser']
+[1, 1, 1]
+transposition
+tourists -> toursists
+word: tourists ->toursists
+['tourists']
+[1, 1, 1]
+transposition
+quiet -> uquiet
+word: quiet ->uquiet
+['quiet']
+[1, 1, 1]
+deletion
+accompany -> acompany
+word: accompany ->acompany
+['company', 'accompany']
+[0, 1, 1]
+replacement
+stretched -> stretched
+word: stretched ->stretched
+['stretched', 'stretches']
+[1, 1, 1]
+transposition
+amend -> aemend
+word: amend ->aemend
+['amend']
+[1, 1, 1]
+insertion
+athletes -> yathletes
+word: athletes ->yathletes
+['athletes']
+[1, 1, 1]
+insertion
+gangs -> ggangs
+word: gangs ->ggangs
+['gangs']
+[1, 1, 1]
+replacement
+negating -> ntgating
+word: negating ->ntgating
+['negating']
+[1, 1, 1]
+transposition
+aggressors -> agrgressors
+word: aggressors ->agrgressors
+['aggressors']
+[1, 1, 1]
+replacement
+steadfastness -> sthadfastness
+word: steadfastness ->sthadfastness
+['steadfastness']
+[1, 1, 1]
+deletion
+shooting -> shootng
+word: shooting ->shootng
+['shooting']
+[1, 1, 1]
+replacement
+magnificent -> magnjficent
+word: magnificent ->magnjficent
+['magnificent']
+[1, 1, 1]
+transposition
+paid -> padid
+word: paid ->padid
+['paid']
+[1, 1, 1]
+replacement
+extracting -> extractind
+word: extracting ->extractind
+['extracting']
+[1, 1, 1]
+insertion
+emulation -> emulatiosn
+word: emulation ->emulatiosn
+['emulation']
+[1, 1, 1]
+transposition
+oil -> ioil
+word: oil ->ioil
+['soil', 'oil']
+[0, 1, 1]
+replacement
+extraordinarily -> extraordlnarily
+word: extraordinarily ->extraordlnarily
+['extraordinarily']
+[1, 1, 1]
+transposition
+protection -> protcection
+word: protection ->protcection
+['protection']
+[1, 1, 1]
+deletion
+offer -> offe
+word: offer ->offe
+['off', 'offer']
+[0, 1, 1]
+transposition
+users -> uesers
+word: users ->uesers
+['users']
+[1, 1, 1]
+deletion
+empty -> epty
+word: empty ->epty
+['empty']
+[1, 1, 1]
+replacement
+spacecraft -> spacenraft
+word: spacecraft ->spacenraft
+['spacecraft']
+[1, 1, 1]
+deletion
+mitterrand -> mtterrand
+word: mitterrand ->mtterrand
+['mitterrand']
+[1, 1, 1]
+transposition
+yugoslav -> ygugoslav
+word: yugoslav ->ygugoslav
+['yugoslav']
+[1, 1, 1]
+transposition
+strummed -> strmummed
+word: strummed ->strmummed
+['strummed']
+[1, 1, 1]
+replacement
+accountable -> accounbable
+word: accountable ->accounbable
+['accountable']
+[1, 1, 1]
+replacement
+guarantees -> guavantees
+word: guarantees ->guavantees
+['guarantees']
+[1, 1, 1]
+insertion
+proceed -> proceekd
+word: proceed ->proceekd
+['proceed']
+[1, 1, 1]
+replacement
+clamor -> clfmor
+word: clamor ->clfmor
+['clamor']
+[1, 1, 1]
+replacement
+mistakes -> mhstakes
+word: mistakes ->mhstakes
+['mistakes']
+[1, 1, 1]
+insertion
+settlement -> suettlement
+word: settlement ->suettlement
+['settlement']
+[1, 1, 1]
+insertion
+snakeheads -> snahkeheads
+word: snakeheads ->snahkeheads
+['snakeheads']
+[1, 1, 1]
+replacement
+ourselves -> ozrselves
+word: ourselves ->ozrselves
+['ourselves']
+[1, 1, 1]
+replacement
+ruling -> rusing
+word: ruling ->rusing
+['ruling', 'rising', 'using']
+[1, 1, 1]
+replacement
+telecom -> tzlecom
+word: telecom ->tzlecom
+['telecom']
+[1, 1, 1]
+insertion
+opposition -> iopposition
+word: opposition ->iopposition
+['opposition']
+[1, 1, 1]
+replacement
+copyrights -> copyrigpts
+word: copyrights ->copyrigpts
+['copyrights']
+[1, 1, 1]
+insertion
+changle -> cjhangle
+word: changle ->cjhangle
+['changle']
+[1, 1, 1]
+transposition
+omnipresent -> omnirpresent
+word: omnipresent ->omnirpresent
+['omnipresent']
+[1, 1, 1]
+replacement
+divorced -> divorcew
+word: divorced ->divorcew
+['divorced', 'divorces']
+[1, 1, 1]
+transposition
+reiterated -> ereiterated
+word: reiterated ->ereiterated
+['reiterated']
+[1, 1, 1]
+transposition
+heilongjiang -> heilogngjiang
+word: heilongjiang ->heilogngjiang
+['heilongjiang']
+[1, 1, 1]
+transposition
+hulan -> uhulan
+word: hulan ->uhulan
+['hulan']
+[1, 1, 1]
+deletion
+confusing -> confuing
+word: confusing ->confuing
+['confusing']
+[1, 1, 1]
+transposition
+proclaiming -> proclaimning
+word: proclaiming ->proclaimning
+['proclaiming']
+[1, 1, 1]
+transposition
+shipped -> shippped
+word: shipped ->shippped
+['shipped']
+[1, 1, 1]
+transposition
+distant -> ditstant
+word: distant ->ditstant
+['distant']
+[1, 1, 1]
+insertion
+document -> documenyt
+word: document ->documenyt
+['document']
+[1, 1, 1]
+deletion
+acclaim -> acclai
+word: acclaim ->acclai
+['acclaim']
+[1, 1, 1]
+deletion
+aiming -> aimng
+word: aiming ->aimng
+['aiming']
+[1, 1, 1]
+insertion
+revising -> reavising
+word: revising ->reavising
+['revising']
+[1, 1, 1]
+insertion
+sell -> selyl
+word: sell ->selyl
+['sell']
+[1, 1, 1]
+deletion
+ice -> ie
+word: ice ->ie
+['i', 'xie', 'le']
+[0, 0, 0]
+replacement
+announcement -> announjement
+word: announcement ->announjement
+['announcement']
+[1, 1, 1]
+insertion
+reimbursement -> reimbursemtent
+word: reimbursement ->reimbursemtent
+['reimbursement']
+[1, 1, 1]
+deletion
+invest -> inves
+word: invest ->inves
+['invest']
+[1, 1, 1]
+insertion
+coast -> cotast
+word: coast ->cotast
+['coast']
+[1, 1, 1]
+insertion
+bihari -> bzihari
+word: bihari ->bzihari
+['bihari']
+[1, 1, 1]
+replacement
+sergeyev -> sergbyev
+word: sergeyev ->sergbyev
+['sergeyev']
+[1, 1, 1]
+replacement
+reliable -> oeliable
+word: reliable ->oeliable
+['reliable']
+[1, 1, 1]
+insertion
+despicable -> despicablne
+word: despicable ->despicablne
+['despicable']
+[1, 1, 1]
+transposition
+policies -> opolicies
+word: policies ->opolicies
+['policies']
+[1, 1, 1]
+replacement
+settled -> settles
+word: settled ->settles
+['settle', 'settled']
+[0, 1, 1]
+transposition
+confronted -> confrontded
+word: confronted ->confrontded
+['confronted']
+[1, 1, 1]
+replacement
+ordered -> orderrd
+word: ordered ->orderrd
+['ordered']
+[1, 1, 1]
+transposition
+turn -> uturn
+word: turn ->uturn
+['turn']
+[1, 1, 1]
+deletion
+hotbed -> hobed
+word: hotbed ->hobed
+['hotbed', 'hoped']
+[1, 1, 1]
+replacement
+chrts -> chrss
+word: chrts ->chrss
+['chrts', 'chess']
+[1, 1, 1]
+transposition
+practicable -> practiacable
+word: practicable ->practiacable
+['practicable']
+[1, 1, 1]
+deletion
+sentiments -> sentimens
+word: sentiments ->sentimens
+['sentiments']
+[1, 1, 1]
+replacement
+gratefully -> gfatefully
+word: gratefully ->gfatefully
+['gratefully']
+[1, 1, 1]
+deletion
+offices -> office
+word: offices ->office
+['office', 'offices']
+[0, 1, 1]
+deletion
+producer -> prducer
+word: producer ->prducer
+['producer']
+[1, 1, 1]
+insertion
+jiafu -> jiaful
+word: jiafu ->jiaful
+['jiafu']
+[1, 1, 1]
+insertion
+submarine -> submharine
+word: submarine ->submharine
+['submarine']
+[1, 1, 1]
+replacement
+respectfully -> respemtfully
+word: respectfully ->respemtfully
+['respectfully']
+[1, 1, 1]
+replacement
+proves -> prkves
+word: proves ->prkves
+['proves']
+[1, 1, 1]
+deletion
+sha -> sh
+word: sha ->sh
+['s', 'ch', 'st']
+[0, 0, 0]
+insertion
+manifestations -> matnifestations
+word: manifestations ->matnifestations
+['manifestations']
+[1, 1, 1]
+insertion
+provocation -> provocatxion
+word: provocation ->provocatxion
+['provocation']
+[1, 1, 1]
+deletion
+permeates -> permates
+word: permeates ->permates
+['permeates']
+[1, 1, 1]
+deletion
+pledged -> pledge
+word: pledged ->pledge
+['pledged']
+[1, 1, 1]
+insertion
+denounced -> denouncedd
+word: denounced ->denouncedd
+['denounced']
+[1, 1, 1]
+replacement
+experimental -> experitental
+word: experimental ->experitental
+['experimental']
+[1, 1, 1]
+replacement
+alter -> alaer
+word: alter ->alaer
+['alter']
+[1, 1, 1]
+deletion
+senior -> senio
+word: senior ->senio
+['senior']
+[1, 1, 1]
+deletion
+divorces -> divorcs
+word: divorces ->divorcs
+['divorces']
+[1, 1, 1]
+insertion
+container -> containeer
+word: container ->containeer
+['container']
+[1, 1, 1]
+replacement
+unrighteous -> unrtghteous
+word: unrighteous ->unrtghteous
+['unrighteous']
+[1, 1, 1]
+transposition
+infant -> infatnt
+word: infant ->infatnt
+['infant']
+[1, 1, 1]
+replacement
+raging -> rbging
+word: raging ->rbging
+['raging']
+[1, 1, 1]
+replacement
+farewell -> farewedl
+word: farewell ->farewedl
+['farewell']
+[1, 1, 1]
+transposition
+huaicheng -> huacicheng
+word: huaicheng ->huacicheng
+['huaicheng']
+[1, 1, 1]
+replacement
+textbooks -> tzxtbooks
+word: textbooks ->tzxtbooks
+['textbooks']
+[1, 1, 1]
+deletion
+ceremony -> cremony
+word: ceremony ->cremony
+['ceremony']
+[1, 1, 1]
+replacement
+practitioner -> praptitioner
+word: practitioner ->praptitioner
+['practitioner']
+[1, 1, 1]
+deletion
+dashed -> ashed
+word: dashed ->ashed
+['dashed', 'shed', 'asked']
+[1, 1, 1]
+replacement
+commentaries -> comuentaries
+word: commentaries ->comuentaries
+['commentaries']
+[1, 1, 1]
+insertion
+video -> videom
+word: video ->videom
+['video']
+[1, 1, 1]
+transposition
+seat -> eseat
+word: seat ->eseat
+['seat']
+[1, 1, 1]
+deletion
+cohesion -> coheion
+word: cohesion ->coheion
+['cohesion']
+[1, 1, 1]
+deletion
+uruguay -> urguay
+word: uruguay ->urguay
+['uruguay']
+[1, 1, 1]
+replacement
+cao -> caq
+word: cao ->caq
+['can', 'car', 'cab']
+[0, 0, 0]
+insertion
+eloquently -> celoquently
+word: eloquently ->celoquently
+['eloquently']
+[1, 1, 1]
+replacement
+derives -> lerives
+word: derives ->lerives
+['derives']
+[1, 1, 1]
+transposition
+attitude -> attiutude
+word: attitude ->attiutude
+['attitude']
+[1, 1, 1]
+deletion
+compilation -> comilation
+word: compilation ->comilation
+['compilation']
+[1, 1, 1]
+insertion
+ironclad -> iuronclad
+word: ironclad ->iuronclad
+['ironclad']
+[1, 1, 1]
+transposition
+shi -> sihi
+word: shi ->sihi
+['shi']
+[1, 1, 1]
+replacement
+material -> materqal
+word: material ->materqal
+['material']
+[1, 1, 1]
+replacement
+located -> ltcated
+word: located ->ltcated
+['located']
+[1, 1, 1]
+insertion
+minister -> ministerw
+word: minister ->ministerw
+['minister', 'ministers']
+[1, 1, 1]
+replacement
+law -> lai
+word: law ->lai
+['lai', 'li', 'la']
+[0, 0, 0]
+transposition
+distant -> dsistant
+word: distant ->dsistant
+['distant']
+[1, 1, 1]
+deletion
+opportunities -> opportunties
+word: opportunities ->opportunties
+['opportunities']
+[1, 1, 1]
+replacement
+textbook -> textxook
+word: textbook ->textxook
+['textbook']
+[1, 1, 1]
+replacement
+zhendong -> zhendona
+word: zhendong ->zhendona
+['zhendong']
+[1, 1, 1]
+deletion
+stressing -> stessing
+word: stressing ->stessing
+['stressing']
+[1, 1, 1]
+deletion
+remains -> remins
+word: remains ->remins
+['remind', 'remains']
+[0, 1, 1]
+deletion
+chrts -> crts
+word: chrts ->crts
+['cuts', 'cats', 'chrts']
+[0, 0, 1]
+replacement
+dispose -> disdose
+word: dispose ->disdose
+['dispose']
+[1, 1, 1]
+replacement
+artillery -> artillewy
+word: artillery ->artillewy
+['artillery']
+[1, 1, 1]
+deletion
+summoned -> sumoned
+word: summoned ->sumoned
+['summoned']
+[1, 1, 1]
+insertion
+rft -> rfkt
+word: rft ->rfkt
+['rft']
+[1, 1, 1]
+transposition
+poll -> ploll
+word: poll ->ploll
+['poll']
+[1, 1, 1]
+replacement
+unevenly -> unevynly
+word: unevenly ->unevynly
+['unevenly']
+[1, 1, 1]
+replacement
+collapse -> collopse
+word: collapse ->collopse
+['collapse']
+[1, 1, 1]
+replacement
+quietest -> quietert
+word: quietest ->quietert
+['quietest']
+[1, 1, 1]
+transposition
+ways -> aways
+word: ways ->aways
+['ways', 'away', 'always']
+[1, 1, 1]
+deletion
+rushed -> ruhed
+word: rushed ->ruhed
+['ruled', 'rushed']
+[0, 1, 1]
+insertion
+protocol -> pgrotocol
+word: protocol ->pgrotocol
+['protocol']
+[1, 1, 1]
+transposition
+government -> gvovernment
+word: government ->gvovernment
+['government']
+[1, 1, 1]
+deletion
+according -> accrding
+word: according ->accrding
+['according']
+[1, 1, 1]
+replacement
+decisions -> xecisions
+word: decisions ->xecisions
+['decisions']
+[1, 1, 1]
+replacement
+equipped -> equippeb
+word: equipped ->equippeb
+['equipped']
+[1, 1, 1]
+deletion
+lease -> lese
+word: lease ->lese
+['lose', 'lee', 'less']
+[0, 0, 0]
+replacement
+her -> hjr
+word: her ->hjr
+['jr', 'her']
+[0, 1, 1]
+deletion
+comparing -> comaring
+word: comparing ->comaring
+['comparing']
+[1, 1, 1]
+replacement
+prueher -> pruehjr
+word: prueher ->pruehjr
+['prueher']
+[1, 1, 1]
+deletion
+fee -> ee
+word: fee ->ee
+['le', 'lee', 've']
+[0, 0, 0]
+deletion
+naturally -> naurally
+word: naturally ->naurally
+['naturally']
+[1, 1, 1]
+transposition
+book -> boook
+word: book ->boook
+['brook', 'book']
+[0, 1, 1]
+insertion
+formidable -> formidablre
+word: formidable ->formidablre
+['formidable']
+[1, 1, 1]
+deletion
+load -> loa
+word: load ->loa
+['la', 'low', 'lot']
+[0, 0, 0]
+transposition
+telling -> etelling
+word: telling ->etelling
+['telling']
+[1, 1, 1]
+replacement
+editorials -> kditorials
+word: editorials ->kditorials
+['editorials']
+[1, 1, 1]
+replacement
+ji -> jb
+word: ji ->jb
+['b', 'ji', 'ju']
+[0, 1, 1]
+replacement
+narayanan -> navayanan
+word: narayanan ->navayanan
+['narayanan']
+[1, 1, 1]
+deletion
+elevate -> eevate
+word: elevate ->eevate
+['elevate']
+[1, 1, 1]
+replacement
+homeland -> homelaxd
+word: homeland ->homelaxd
+['homeland']
+[1, 1, 1]
+replacement
+lip -> lix
+word: lip ->lix
+['li', 'lax', 'lin']
+[0, 0, 0]
+insertion
+theater -> thweater
+word: theater ->thweater
+['theater']
+[1, 1, 1]
+replacement
+shape -> shapa
+word: shape ->shapa
+['shape']
+[1, 1, 1]
+deletion
+applause -> appause
+word: applause ->appause
+['applause']
+[1, 1, 1]
+transposition
+convention -> conventinon
+word: convention ->conventinon
+['convention']
+[1, 1, 1]
+transposition
+heroes -> hreroes
+word: heroes ->hreroes
+['heroes']
+[1, 1, 1]
+replacement
+constrain -> constrrin
+word: constrain ->constrrin
+['constrain']
+[1, 1, 1]
+insertion
+workmanship -> workmaunship
+word: workmanship ->workmaunship
+['workmanship']
+[1, 1, 1]
+insertion
+guangqian -> guaangqian
+word: guangqian ->guaangqian
+['guangqian']
+[1, 1, 1]
+deletion
+cement -> cemnt
+word: cement ->cemnt
+['cement', 'cent']
+[1, 1, 1]
+transposition
+kungkuan -> knungkuan
+word: kungkuan ->knungkuan
+['kungkuan']
+[1, 1, 1]
+replacement
+uniformed -> uniformef
+word: uniformed ->uniformef
+['uniformed']
+[1, 1, 1]
+replacement
+navigation -> naviyation
+word: navigation ->naviyation
+['navigation']
+[1, 1, 1]
+insertion
+liqun -> liquun
+word: liqun ->liquun
+['liqun']
+[1, 1, 1]
+replacement
+accomplishment -> accodplishment
+word: accomplishment ->accodplishment
+['accomplishment']
+[1, 1, 1]
+replacement
+accused -> bccused
+word: accused ->bccused
+['accused']
+[1, 1, 1]
+insertion
+los -> leos
+word: los ->leos
+['los', 'less', 'laos']
+[1, 1, 1]
+replacement
+scandal -> scantal
+word: scandal ->scantal
+['scandal']
+[1, 1, 1]
+transposition
+windows -> iwindows
+word: windows ->iwindows
+['windows']
+[1, 1, 1]
+replacement
+philosophy -> philosoqhy
+word: philosophy ->philosoqhy
+['philosophy']
+[1, 1, 1]
+replacement
+assets -> cssets
+word: assets ->cssets
+['assets']
+[1, 1, 1]
+insertion
+grain -> gzrain
+word: grain ->gzrain
+['grain']
+[1, 1, 1]
+deletion
+recycling -> recyclin
+word: recycling ->recyclin
+['recycling']
+[1, 1, 1]
+deletion
+lag -> lg
+word: lag ->lg
+['kg', 'li', 'la']
+[0, 0, 0]
+transposition
+paying -> payigng
+word: paying ->payigng
+['paying']
+[1, 1, 1]
+replacement
+aren -> ared
+word: aren ->ared
+['red', 'aired', 'are']
+[0, 0, 0]
+transposition
+underdeveloped -> undedrdeveloped
+word: underdeveloped ->undedrdeveloped
+['underdeveloped']
+[1, 1, 1]
+transposition
+gives -> igives
+word: gives ->igives
+['gives']
+[1, 1, 1]
+transposition
+act -> cact
+word: act ->cact
+['pact', 'fact', 'cast']
+[0, 0, 0]
+transposition
+respecting -> respeciting
+word: respecting ->respeciting
+['respecting']
+[1, 1, 1]
+deletion
+frontiers -> frntiers
+word: frontiers ->frntiers
+['frontiers']
+[1, 1, 1]
+insertion
+borne -> mborne
+word: borne ->mborne
+['borne']
+[1, 1, 1]
+replacement
+giant -> gisnt
+word: giant ->gisnt
+['gist', 'giant']
+[0, 1, 1]
+replacement
+domineering -> dopineering
+word: domineering ->dopineering
+['domineering']
+[1, 1, 1]
+deletion
+scum -> sum
+word: scum ->sum
+['sum', 'su', 'scum']
+[0, 0, 1]
+replacement
+frictions -> frirtions
+word: frictions ->frirtions
+['frictions']
+[1, 1, 1]
+insertion
+lan -> flan
+word: lan ->flan
+['lan', 'plan', 'fan']
+[1, 1, 1]
+insertion
+incorporated -> incorporathed
+word: incorporated ->incorporathed
+['incorporated']
+[1, 1, 1]
+transposition
+states -> staetes
+word: states ->staetes
+['states']
+[1, 1, 1]
+insertion
+unrest -> undrest
+word: unrest ->undrest
+['unrest']
+[1, 1, 1]
+transposition
+crystals -> rcrystals
+word: crystals ->rcrystals
+['crystals']
+[1, 1, 1]
+deletion
+musical -> muical
+word: musical ->muical
+['musical']
+[1, 1, 1]
+transposition
+ironclad -> ironcalad
+word: ironclad ->ironcalad
+['ironclad']
+[1, 1, 1]
+deletion
+profit -> rofit
+word: profit ->rofit
+['profit']
+[1, 1, 1]
+insertion
+meiji -> meizji
+word: meiji ->meizji
+['meiji']
+[1, 1, 1]
+transposition
+pacific -> apacific
+word: pacific ->apacific
+['pacific']
+[1, 1, 1]
+insertion
+standards -> standaxrds
+word: standards ->standaxrds
+['standards']
+[1, 1, 1]
+deletion
+carriers -> carrier
+word: carriers ->carrier
+['carrier', 'barrier', 'carried']
+[0, 0, 0]
+replacement
+wartime -> wabtime
+word: wartime ->wabtime
+['wartime']
+[1, 1, 1]
+replacement
+resulting -> reswlting
+word: resulting ->reswlting
+['resulting']
+[1, 1, 1]
+transposition
+smashed -> samashed
+word: smashed ->samashed
+['smashed']
+[1, 1, 1]
+insertion
+directly -> direuctly
+word: directly ->direuctly
+['directly']
+[1, 1, 1]
+transposition
+nepalese -> enepalese
+word: nepalese ->enepalese
+['nepalese']
+[1, 1, 1]
+replacement
+quick -> luick
+word: quick ->luick
+['quick', 'luck']
+[1, 1, 1]
+replacement
+interfering -> interfergng
+word: interfering ->interfergng
+['interfering']
+[1, 1, 1]
+insertion
+call -> coall
+word: call ->coall
+['call', 'coal']
+[1, 1, 1]
+deletion
+hutchison -> hutchiso
+word: hutchison ->hutchiso
+['hutchison']
+[1, 1, 1]
+deletion
+enterprise -> nterprise
+word: enterprise ->nterprise
+['enterprise']
+[1, 1, 1]
+deletion
+presages -> presags
+word: presages ->presags
+['presages']
+[1, 1, 1]
+insertion
+interest -> intemrest
+word: interest ->intemrest
+['interest']
+[1, 1, 1]
+replacement
+territory -> territrry
+word: territory ->territrry
+['territory']
+[1, 1, 1]
+insertion
+indelible -> indelibleh
+word: indelible ->indelibleh
+['indelible']
+[1, 1, 1]
+deletion
+painting -> paintig
+word: painting ->paintig
+['painting']
+[1, 1, 1]
+deletion
+chancellor -> chancelor
+word: chancellor ->chancelor
+['chancellor']
+[1, 1, 1]
+insertion
+ribao -> ribaio
+word: ribao ->ribaio
+['ribao']
+[1, 1, 1]
+deletion
+wavering -> waverig
+word: wavering ->waverig
+['wavering']
+[1, 1, 1]
+insertion
+cigarettes -> cigarettews
+word: cigarettes ->cigarettews
+['cigarettes']
+[1, 1, 1]
+deletion
+limitation -> imitation
+word: limitation ->imitation
+['limitation']
+[1, 1, 1]
+insertion
+oceanic -> oceanicm
+word: oceanic ->oceanicm
+['oceanic']
+[1, 1, 1]
+transposition
+restricting -> restrictigng
+word: restricting ->restrictigng
+['restricting']
+[1, 1, 1]
+insertion
+opportunities -> opportuniteies
+word: opportunities ->opportuniteies
+['opportunities']
+[1, 1, 1]
+replacement
+waiting -> waitinh
+word: waiting ->waitinh
+['waiting']
+[1, 1, 1]
+transposition
+sure -> suere
+word: sure ->suere
+['sure']
+[1, 1, 1]
+insertion
+decisionmaking -> decisionmakixng
+word: decisionmaking ->decisionmakixng
+['decisionmaking']
+[1, 1, 1]
+transposition
+attaching -> tattaching
+word: attaching ->tattaching
+['attaching']
+[1, 1, 1]
+transposition
+turns -> tursns
+word: turns ->tursns
+['turns']
+[1, 1, 1]
+replacement
+unfeasible -> unfeasibla
+word: unfeasible ->unfeasibla
+['unfeasible']
+[1, 1, 1]
+replacement
+confine -> confinz
+word: confine ->confinz
+['confine']
+[1, 1, 1]
+deletion
+increase -> ncrease
+word: increase ->ncrease
+['increase']
+[1, 1, 1]
+deletion
+ying -> ing
+word: ying ->ing
+['qing', 'king', 'ling']
+[0, 0, 0]
+transposition
+seems -> seesms
+word: seems ->seesms
+['seems']
+[1, 1, 1]
+insertion
+instruction -> insmtruction
+word: instruction ->insmtruction
+['instruction']
+[1, 1, 1]
+deletion
+dream -> drem
+word: dream ->drem
+['drew', 'dream', 'deem']
+[0, 1, 1]
+replacement
+village -> vilwage
+word: village ->vilwage
+['village']
+[1, 1, 1]
+deletion
+morocco -> moroco
+word: morocco ->moroco
+['morocco']
+[1, 1, 1]
+transposition
+localized -> localizded
+word: localized ->localizded
+['localized']
+[1, 1, 1]
+replacement
+revenge -> revynge
+word: revenge ->revynge
+['revenge']
+[1, 1, 1]
+transposition
+declarations -> decalarations
+word: declarations ->decalarations
+['declarations']
+[1, 1, 1]
+deletion
+notice -> notic
+word: notice ->notic
+['notice']
+[1, 1, 1]
+transposition
+elders -> lelders
+word: elders ->lelders
+['leaders', 'elders']
+[0, 1, 1]
+transposition
+treasury -> rtreasury
+word: treasury ->rtreasury
+['treasury']
+[1, 1, 1]
+replacement
+microwave -> misrowave
+word: microwave ->misrowave
+['microwave']
+[1, 1, 1]
+transposition
+will -> iwill
+word: will ->iwill
+['will']
+[1, 1, 1]
+deletion
+assigning -> asigning
+word: assigning ->asigning
+['signing', 'assigning']
+[0, 1, 1]
+insertion
+enormously -> enormiously
+word: enormously ->enormiously
+['enormously']
+[1, 1, 1]
+deletion
+mr -> m
+word: mr ->m
+['m', 't', 'a']
+[0, 0, 0]
+deletion
+jiyun -> jiun
+word: jiyun ->jiun
+['jun', 'jin', 'jiyun']
+[0, 0, 1]
+replacement
+report -> repgrt
+word: report ->repgrt
+['report']
+[1, 1, 1]
+transposition
+single -> sningle
+word: single ->sningle
+['single']
+[1, 1, 1]
+transposition
+notice -> notiece
+word: notice ->notiece
+['notice']
+[1, 1, 1]
+replacement
+generations -> gnnerations
+word: generations ->gnnerations
+['generations']
+[1, 1, 1]
+insertion
+alternative -> alnternative
+word: alternative ->alnternative
+['alternative']
+[1, 1, 1]
+replacement
+immolate -> immolnte
+word: immolate ->immolnte
+['immolate']
+[1, 1, 1]
+deletion
+readjustment -> readjustmet
+word: readjustment ->readjustmet
+['readjustment']
+[1, 1, 1]
+deletion
+view -> vie
+word: view ->vie
+['xie', 'lie', 've']
+[0, 0, 0]
+deletion
+magistrate -> magstrate
+word: magistrate ->magstrate
+['magistrate']
+[1, 1, 1]
+transposition
+properly -> prpoperly
+word: properly ->prpoperly
+['properly']
+[1, 1, 1]
+replacement
+investing -> investirg
+word: investing ->investirg
+['investing']
+[1, 1, 1]
+insertion
+cards -> cardrs
+word: cards ->cardrs
+['cards']
+[1, 1, 1]
+replacement
+crossroads -> crossrowds
+word: crossroads ->crossrowds
+['crossroads']
+[1, 1, 1]
+insertion
+attributable -> attributablej
+word: attributable ->attributablej
+['attributable']
+[1, 1, 1]
+transposition
+speakers -> sepeakers
+word: speakers ->sepeakers
+['speakers']
+[1, 1, 1]
+insertion
+another -> anotwher
+word: another ->anotwher
+['another']
+[1, 1, 1]
+insertion
+separated -> sepsarated
+word: separated ->sepsarated
+['separated']
+[1, 1, 1]
+replacement
+art -> rrt
+word: art ->rrt
+['rft', 'art']
+[0, 1, 1]
+deletion
+celebrate -> celbrate
+word: celebrate ->celbrate
+['celebrate']
+[1, 1, 1]
+transposition
+gitic -> gitcic
+word: gitic ->gitcic
+['gitic']
+[1, 1, 1]
+deletion
+rigging -> riggng
+word: rigging ->riggng
+['rigging']
+[1, 1, 1]
+insertion
+political -> polihtical
+word: political ->polihtical
+['political']
+[1, 1, 1]
+transposition
+wherein -> whrerein
+word: wherein ->whrerein
+['wherein']
+[1, 1, 1]
+insertion
+setup -> setuup
+word: setup ->setuup
+['setup']
+[1, 1, 1]
+transposition
+ifs -> fifs
+word: ifs ->fifs
+['ifs']
+[1, 1, 1]
+transposition
+megaphones -> emegaphones
+word: megaphones ->emegaphones
+['megaphones']
+[1, 1, 1]
+deletion
+liberalization -> liberalizatin
+word: liberalization ->liberalizatin
+['liberalization']
+[1, 1, 1]
+transposition
+visas -> vsisas
+word: visas ->vsisas
+['visas']
+[1, 1, 1]
+transposition
+often -> foften
+word: often ->foften
+['often']
+[1, 1, 1]
+replacement
+jinan -> jinqn
+word: jinan ->jinqn
+['jinan']
+[1, 1, 1]
+deletion
+launch -> lanch
+word: launch ->lanch
+['lunch', 'launch', 'ranch']
+[0, 1, 1]
+transposition
+hang -> hnang
+word: hang ->hnang
+['huang', 'hang']
+[0, 1, 1]
+transposition
+staying -> sataying
+word: staying ->sataying
+['staying']
+[1, 1, 1]
+deletion
+members -> mmbers
+word: members ->mmbers
+['members']
+[1, 1, 1]
+deletion
+coexistence -> coxistence
+word: coexistence ->coxistence
+['coexistence']
+[1, 1, 1]
+replacement
+digitized -> digotized
+word: digitized ->digotized
+['digitized']
+[1, 1, 1]
+deletion
+naturally -> natually
+word: naturally ->natually
+['naturally']
+[1, 1, 1]
+transposition
+choazhou -> chaoazhou
+word: choazhou ->chaoazhou
+['choazhou']
+[1, 1, 1]
+deletion
+officials -> officias
+word: officials ->officias
+['official', 'officials']
+[0, 1, 1]
+transposition
+ti -> iti
+word: ti ->iti
+['it', 'ii', 'iii']
+[0, 0, 0]
+transposition
+yourself -> yourseflf
+word: yourself ->yourseflf
+['yourself']
+[1, 1, 1]
+transposition
+snow -> snwow
+word: snow ->snwow
+['snow']
+[1, 1, 1]
+insertion
+amid -> amiwd
+word: amid ->amiwd
+['amid']
+[1, 1, 1]
+transposition
+simply -> simpyly
+word: simply ->simpyly
+['simply']
+[1, 1, 1]
+deletion
+place -> plce
+word: place ->plce
+['place', 'pace']
+[1, 1, 1]
+insertion
+apec -> axpec
+word: apec ->axpec
+['apec']
+[1, 1, 1]
+replacement
+microwave -> microwavx
+word: microwave ->microwavx
+['microwave']
+[1, 1, 1]
+transposition
+primary -> priamary
+word: primary ->priamary
+['primary']
+[1, 1, 1]
+insertion
+cai -> caki
+word: cai ->caki
+['cai']
+[1, 1, 1]
+deletion
+definite -> defiite
+word: definite ->defiite
+['definite']
+[1, 1, 1]
+replacement
+hearty -> heprty
+word: hearty ->heprty
+['hearty']
+[1, 1, 1]
+deletion
+onlooker -> onloker
+word: onlooker ->onloker
+['onlooker']
+[1, 1, 1]
+insertion
+fluctuate -> lfluctuate
+word: fluctuate ->lfluctuate
+['fluctuate']
+[1, 1, 1]
+deletion
+environment -> envronment
+word: environment ->envronment
+['environment']
+[1, 1, 1]
+transposition
+purely -> upurely
+word: purely ->upurely
+['purely']
+[1, 1, 1]
+deletion
+multiple -> mltiple
+word: multiple ->mltiple
+['multiple']
+[1, 1, 1]
+replacement
+zxs -> zxv
+word: zxs ->zxv
+['zxs']
+[1, 1, 1]
+transposition
+commander -> commaneder
+word: commander ->commaneder
+['commander']
+[1, 1, 1]
+transposition
+started -> strarted
+word: started ->strarted
+['started']
+[1, 1, 1]
+insertion
+holocaust -> holockaust
+word: holocaust ->holockaust
+['holocaust']
+[1, 1, 1]
+replacement
+consumers -> cousumers
+word: consumers ->cousumers
+['consumers']
+[1, 1, 1]
+replacement
+amount -> wmount
+word: amount ->wmount
+['amount']
+[1, 1, 1]
+replacement
+thatcher -> thatnher
+word: thatcher ->thatnher
+['thatcher']
+[1, 1, 1]
+deletion
+frontiers -> frontier
+word: frontiers ->frontier
+['frontier', 'frontiers']
+[0, 1, 1]
+transposition
+anyway -> anywyay
+word: anyway ->anywyay
+['anyway']
+[1, 1, 1]
+transposition
+duncan -> uduncan
+word: duncan ->uduncan
+['duncan']
+[1, 1, 1]
+deletion
+convening -> convenng
+word: convening ->convenng
+['convening']
+[1, 1, 1]
+replacement
+remaining -> remgining
+word: remaining ->remgining
+['remaining']
+[1, 1, 1]
+insertion
+hulan -> uhulan
+word: hulan ->uhulan
+['hulan']
+[1, 1, 1]
+deletion
+through -> though
+word: through ->though
+['though', 'tough', 'thought']
+[0, 0, 0]
+insertion
+optimization -> optimizationv
+word: optimization ->optimizationv
+['optimization']
+[1, 1, 1]
+transposition
+bribed -> briebed
+word: bribed ->briebed
+['bribed', 'briefed']
+[1, 1, 1]
+replacement
+appearance -> lppearance
+word: appearance ->lppearance
+['appearance']
+[1, 1, 1]
+deletion
+coexistence -> coexistene
+word: coexistence ->coexistene
+['coexistence']
+[1, 1, 1]
+insertion
+manual -> manuavl
+word: manual ->manuavl
+['manual']
+[1, 1, 1]
+deletion
+investigative -> investigativ
+word: investigative ->investigativ
+['investigative']
+[1, 1, 1]
+replacement
+aides -> hides
+word: aides ->hides
+['sides', 'aides', 'tides']
+[0, 1, 1]
+replacement
+exploit -> exploil
+word: exploit ->exploil
+['exploit']
+[1, 1, 1]
+insertion
+binding -> binfding
+word: binding ->binfding
+['binding']
+[1, 1, 1]
+deletion
+midst -> midt
+word: midst ->midt
+['midst', 'mist']
+[1, 1, 1]
+transposition
+unsc -> nunsc
+word: unsc ->nunsc
+['unsc']
+[1, 1, 1]
+replacement
+cape -> capd
+word: cape ->capd
+['cape', 'card']
+[1, 1, 1]
+replacement
+share -> shaee
+word: share ->shaee
+['shame', 'shake', 'shape']
+[0, 0, 0]
+insertion
+when -> whehn
+word: when ->whehn
+['when']
+[1, 1, 1]
+replacement
+round -> rtund
+word: round ->rtund
+['round']
+[1, 1, 1]
+replacement
+gall -> gell
+word: gall ->gell
+['gall', 'bell', 'well']
+[1, 1, 1]
+replacement
+reducing -> reducino
+word: reducing ->reducino
+['reducing']
+[1, 1, 1]
+insertion
+protesters -> protestersh
+word: protesters ->protestersh
+['protesters']
+[1, 1, 1]
+insertion
+proposition -> peroposition
+word: proposition ->peroposition
+['proposition']
+[1, 1, 1]
+insertion
+astonishing -> astonishitng
+word: astonishing ->astonishitng
+['astonishing']
+[1, 1, 1]
+transposition
+afterstrike -> aftrerstrike
+word: afterstrike ->aftrerstrike
+['afterstrike']
+[1, 1, 1]
+replacement
+kindergarten -> qindergarten
+word: kindergarten ->qindergarten
+['kindergarten']
+[1, 1, 1]
+transposition
+yet -> ytet
+word: yet ->ytet
+['yet']
+[1, 1, 1]
+insertion
+attained -> attahined
+word: attained ->attahined
+['attained']
+[1, 1, 1]
+transposition
+underage -> udnderage
+word: underage ->udnderage
+['underage']
+[1, 1, 1]
+transposition
+competing -> ocompeting
+word: competing ->ocompeting
+['competing']
+[1, 1, 1]
+transposition
+c -> c
+word: c ->c
+['c', 't', 'a']
+[1, 1, 1]
+replacement
+filled -> fiiled
+word: filled ->fiiled
+['failed', 'filed', 'filled']
+[0, 0, 1]
+replacement
+reported -> reparted
+word: reported ->reparted
+['reported']
+[1, 1, 1]
+replacement
+maritime -> maritimh
+word: maritime ->maritimh
+['maritime']
+[1, 1, 1]
+transposition
+includes -> inculudes
+word: includes ->inculudes
+['includes']
+[1, 1, 1]
+deletion
+quo -> qu
+word: quo ->qu
+['qu', 'u', 'q']
+[0, 0, 0]
+transposition
+off -> foff
+word: off ->foff
+['off']
+[1, 1, 1]
+replacement
+melodious -> mqlodious
+word: melodious ->mqlodious
+['melodious']
+[1, 1, 1]
+insertion
+inundated -> iknundated
+word: inundated ->iknundated
+['inundated']
+[1, 1, 1]
+deletion
+socialization -> ocialization
+word: socialization ->ocialization
+['socialization']
+[1, 1, 1]
+deletion
+superconductive -> uperconductive
+word: superconductive ->uperconductive
+['superconductive']
+[1, 1, 1]
+deletion
+tajikistan -> tajiistan
+word: tajikistan ->tajiistan
+['tajikstan', 'tajikistan']
+[0, 1, 1]
+deletion
+grasps -> rasps
+word: grasps ->rasps
+['grasps']
+[1, 1, 1]
+transposition
+deepest -> deepsest
+word: deepest ->deepsest
+['deepest']
+[1, 1, 1]
+insertion
+extracting -> efxtracting
+word: extracting ->efxtracting
+['extracting']
+[1, 1, 1]
+transposition
+secrets -> secerets
+word: secrets ->secerets
+['secrets']
+[1, 1, 1]
+transposition
+ceased -> eceased
+word: ceased ->eceased
+['ceased']
+[1, 1, 1]
+replacement
+hague -> hygue
+word: hague ->hygue
+['hague']
+[1, 1, 1]
+deletion
+tearing -> taring
+word: tearing ->taring
+['caring', 'tearing', 'taking']
+[0, 1, 1]
+deletion
+vast -> vat
+word: vast ->vat
+['van', 'vast', 'eat']
+[0, 1, 1]
+replacement
+thailand -> thaipand
+word: thailand ->thaipand
+['thailand']
+[1, 1, 1]
+replacement
+cycle -> cycbe
+word: cycle ->cycbe
+['cycle']
+[1, 1, 1]
+deletion
+ctrl -> trl
+word: ctrl ->trl
+['ctrl', 'try']
+[1, 1, 1]
+transposition
+masses -> msasses
+word: masses ->msasses
+['masses']
+[1, 1, 1]
+deletion
+platform -> platfor
+word: platform ->platfor
+['platform']
+[1, 1, 1]
+replacement
+issue -> ihsue
+word: issue ->ihsue
+['issue']
+[1, 1, 1]
+insertion
+tranquil -> tranquail
+word: tranquil ->tranquail
+['tranquil']
+[1, 1, 1]
+replacement
+selectively -> selvctively
+word: selectively ->selvctively
+['selectively']
+[1, 1, 1]
+deletion
+telegram -> teegram
+word: telegram ->teegram
+['telegram']
+[1, 1, 1]
+replacement
+agency -> agenck
+word: agency ->agenck
+['agency']
+[1, 1, 1]
+replacement
+excerpted -> excerpteg
+word: excerpted ->excerpteg
+['excerpted']
+[1, 1, 1]
+insertion
+expound -> exxpound
+word: expound ->exxpound
+['expound']
+[1, 1, 1]
+insertion
+qinyao -> qintyao
+word: qinyao ->qintyao
+['qinyao']
+[1, 1, 1]
+insertion
+slavery -> slaveray
+word: slavery ->slaveray
+['slavery']
+[1, 1, 1]
+deletion
+detector -> detectr
+word: detector ->detectr
+['detector']
+[1, 1, 1]
+insertion
+ouster -> oquster
+word: ouster ->oquster
+['ouster']
+[1, 1, 1]
+insertion
+row -> rowg
+word: row ->rowg
+['row']
+[1, 1, 1]
+deletion
+emigration -> emigraion
+word: emigration ->emigraion
+['emigration']
+[1, 1, 1]
+replacement
+isolated -> xsolated
+word: isolated ->xsolated
+['isolated']
+[1, 1, 1]
+transposition
+kindergarten -> kinedergarten
+word: kindergarten ->kinedergarten
+['kindergarten']
+[1, 1, 1]
+deletion
+imagined -> imained
+word: imagined ->imained
+['imagined']
+[1, 1, 1]
+transposition
+old -> lold
+word: old ->lold
+['loud', 'load', 'gold']
+[0, 0, 0]
+insertion
+executive -> gexecutive
+word: executive ->gexecutive
+['executive']
+[1, 1, 1]
+transposition
+ends -> ensds
+word: ends ->ensds
+['ends']
+[1, 1, 1]
+insertion
+announced -> annournced
+word: announced ->annournced
+['announced']
+[1, 1, 1]
+replacement
+caring -> caricg
+word: caring ->caricg
+['caring']
+[1, 1, 1]
+insertion
+substantiated -> subnstantiated
+word: substantiated ->subnstantiated
+['substantiated']
+[1, 1, 1]
+replacement
+states -> stytes
+word: states ->stytes
+['styles', 'states']
+[0, 1, 1]
+transposition
+lixian -> ilixian
+word: lixian ->ilixian
+['lixian']
+[1, 1, 1]
+replacement
+drug -> drtg
+word: drug ->drtg
+['drug', 'drag']
+[1, 1, 1]
+replacement
+dignity -> dignihy
+word: dignity ->dignihy
+['dignity']
+[1, 1, 1]
+insertion
+transgenetic -> transggenetic
+word: transgenetic ->transggenetic
+['transgenetic']
+[1, 1, 1]
+insertion
+embarked -> embarkegd
+word: embarked ->embarkegd
+['embarked']
+[1, 1, 1]
+insertion
+protection -> protectivon
+word: protection ->protectivon
+['protection']
+[1, 1, 1]
+replacement
+worn -> wsrn
+word: worn ->wsrn
+['worn', 'warn']
+[1, 1, 1]
+transposition
+strings -> strigngs
+word: strings ->strigngs
+['strings']
+[1, 1, 1]
+transposition
+aiwen -> awiwen
+word: aiwen ->awiwen
+['aiwen']
+[1, 1, 1]
+transposition
+sailing -> saliling
+word: sailing ->saliling
+['sailing']
+[1, 1, 1]
+insertion
+biyang -> biyaing
+word: biyang ->biyaing
+['biyang']
+[1, 1, 1]
+transposition
+leaps -> leasps
+word: leaps ->leasps
+['leaps']
+[1, 1, 1]
+replacement
+huang -> hurng
+word: huang ->hurng
+['huang']
+[1, 1, 1]
+replacement
+me -> ie
+word: me ->ie
+['i', 'xie', 'le']
+[0, 0, 0]
+transposition
+few -> fwew
+word: few ->fwew
+['flew', 'few']
+[0, 1, 1]
+insertion
+relaxed -> relavxed
+word: relaxed ->relavxed
+['relaxed']
+[1, 1, 1]
+transposition
+rabin -> arabin
+word: rabin ->arabin
+['rabin', 'arabia']
+[1, 1, 1]
+deletion
+virtual -> virual
+word: virtual ->virual
+['virtual', 'visual']
+[1, 1, 1]
+transposition
+straits -> staraits
+word: straits ->staraits
+['straits']
+[1, 1, 1]
+transposition
+junior -> juniror
+word: junior ->juniror
+['junior']
+[1, 1, 1]
+insertion
+posing -> posinkg
+word: posing ->posinkg
+['posing']
+[1, 1, 1]
+replacement
+similarly -> sijilarly
+word: similarly ->sijilarly
+['similarly']
+[1, 1, 1]
+insertion
+netherlands -> netherlacnds
+word: netherlands ->netherlacnds
+['netherlands']
+[1, 1, 1]
+deletion
+quadrupling -> qadrupling
+word: quadrupling ->qadrupling
+['quadrupling']
+[1, 1, 1]
+deletion
+sand -> san
+word: sand ->san
+['san', 'lan', 'van']
+[0, 0, 0]
+transposition
+dispositions -> dsispositions
+word: dispositions ->dsispositions
+['dispositions']
+[1, 1, 1]
+transposition
+arbitrage -> abrbitrage
+word: arbitrage ->abrbitrage
+['arbitrage']
+[1, 1, 1]
+transposition
+driving -> driiving
+word: driving ->driiving
+['driving']
+[1, 1, 1]
+replacement
+cheung -> cheunz
+word: cheung ->cheunz
+['cheung']
+[1, 1, 1]
+deletion
+markedly -> markdly
+word: markedly ->markdly
+['markedly']
+[1, 1, 1]
+transposition
+deteriorating -> detreriorating
+word: deteriorating ->detreriorating
+['deteriorating']
+[1, 1, 1]
+transposition
+christian -> chrsistian
+word: christian ->chrsistian
+['christian']
+[1, 1, 1]
+transposition
+karmapa -> karamapa
+word: karmapa ->karamapa
+['karmapa']
+[1, 1, 1]
+deletion
+interceptions -> inerceptions
+word: interceptions ->inerceptions
+['interceptions']
+[1, 1, 1]
+insertion
+delegates -> delegatpes
+word: delegates ->delegatpes
+['delegates']
+[1, 1, 1]
+transposition
+pasture -> pastuere
+word: pasture ->pastuere
+['pasture']
+[1, 1, 1]
+deletion
+wary -> wry
+word: wary ->wry
+['wry', 'dry', 'why']
+[0, 0, 0]
+insertion
+enriched -> eznriched
+word: enriched ->eznriched
+['enriched']
+[1, 1, 1]
+replacement
+jiaxuan -> jiaiuan
+word: jiaxuan ->jiaiuan
+['jiaxuan']
+[1, 1, 1]
+insertion
+preceding -> plreceding
+word: preceding ->plreceding
+['preceding']
+[1, 1, 1]
+transposition
+draw -> daraw
+word: draw ->daraw
+['draw']
+[1, 1, 1]
+insertion
+speech -> speechq
+word: speech ->speechq
+['speech']
+[1, 1, 1]
+insertion
+kuomintang -> kuomintangw
+word: kuomintang ->kuomintangw
+['kuomintang']
+[1, 1, 1]
+transposition
+theoretician -> teheoretician
+word: theoretician ->teheoretician
+['theoretician']
+[1, 1, 1]
+replacement
+contents -> contgnts
+word: contents ->contgnts
+['contents']
+[1, 1, 1]
+deletion
+input -> nput
+word: input ->nput
+['npt', 'put', 'input']
+[0, 0, 1]
+transposition
+agni -> agini
+word: agni ->agini
+['agni']
+[1, 1, 1]
+insertion
+rule -> zrule
+word: rule ->zrule
+['rule']
+[1, 1, 1]
+replacement
+sincere -> sincerc
+word: sincere ->sincerc
+['sincere']
+[1, 1, 1]
+deletion
+bonds -> bnds
+word: bonds ->bnds
+['ends', 'bonds']
+[0, 1, 1]
+insertion
+condemned -> condemnedj
+word: condemned ->condemnedj
+['condemned']
+[1, 1, 1]
+replacement
+decorating -> decojating
+word: decorating ->decojating
+['decorating']
+[1, 1, 1]
+insertion
+apologize -> avpologize
+word: apologize ->avpologize
+['apologize']
+[1, 1, 1]
+insertion
+meaning -> meaniung
+word: meaning ->meaniung
+['meaning']
+[1, 1, 1]
+deletion
+rock -> roc
+word: rock ->roc
+['rok', 'row', 'rock']
+[0, 0, 1]
+deletion
+prime -> prie
+word: prime ->prie
+['prize', 'pride', 'price']
+[0, 0, 0]
+transposition
+republic -> erepublic
+word: republic ->erepublic
+['republic']
+[1, 1, 1]
+transposition
+southeasterly -> southesasterly
+word: southeasterly ->southesasterly
+['southeasterly']
+[1, 1, 1]
+insertion
+chiefly -> cthiefly
+word: chiefly ->cthiefly
+['chiefly']
+[1, 1, 1]
+transposition
+let -> ltet
+word: let ->ltet
+['let']
+[1, 1, 1]
+replacement
+apartheid -> aparxheid
+word: apartheid ->aparxheid
+['apartheid']
+[1, 1, 1]
+transposition
+characters -> charactrers
+word: characters ->charactrers
+['characters']
+[1, 1, 1]
+deletion
+assignment -> assignent
+word: assignment ->assignent
+['assignment']
+[1, 1, 1]
+transposition
+field -> ifield
+word: field ->ifield
+['field']
+[1, 1, 1]
+transposition
+rules -> rulses
+word: rules ->rulses
+['rules']
+[1, 1, 1]
+deletion
+implications -> implicatios
+word: implications ->implicatios
+['implication', 'implications']
+[0, 1, 1]
+replacement
+control -> conwrol
+word: control ->conwrol
+['control']
+[1, 1, 1]
+deletion
+maybe -> maye
+word: maybe ->maye
+['may', 'maybe', 'make']
+[0, 1, 1]
+deletion
+heights -> heghts
+word: heights ->heghts
+['heights']
+[1, 1, 1]
+deletion
+manners -> manner
+word: manners ->manner
+['manner', 'manned', 'manners']
+[0, 0, 1]
+replacement
+hinterland -> zinterland
+word: hinterland ->zinterland
+['hinterland']
+[1, 1, 1]
+insertion
+conglomerates -> connglomerates
+word: conglomerates ->connglomerates
+['conglomerates']
+[1, 1, 1]
+replacement
+thinks -> shinks
+word: thinks ->shinks
+['thinks']
+[1, 1, 1]
+transposition
+tu -> utu
+word: tu ->utu
+['tu']
+[1, 1, 1]
+transposition
+sober -> sobrer
+word: sober ->sobrer
+['sober']
+[1, 1, 1]
+insertion
+boeing -> broeing
+word: boeing ->broeing
+['boeing']
+[1, 1, 1]
+replacement
+attacking -> attjcking
+word: attacking ->attjcking
+['attacking']
+[1, 1, 1]
+deletion
+corporate -> corpoate
+word: corporate ->corpoate
+['corporate']
+[1, 1, 1]
+replacement
+innovative -> innovatvve
+word: innovative ->innovatvve
+['innovative']
+[1, 1, 1]
+deletion
+aggression -> aggressio
+word: aggression ->aggressio
+['aggression']
+[1, 1, 1]
+replacement
+movement -> moveoent
+word: movement ->moveoent
+['movement']
+[1, 1, 1]
+insertion
+afforestation -> afforestatpion
+word: afforestation ->afforestatpion
+['afforestation']
+[1, 1, 1]
+insertion
+lack -> xlack
+word: lack ->xlack
+['lack', 'black']
+[1, 1, 1]
+insertion
+sparing -> wsparing
+word: sparing ->wsparing
+['sparing']
+[1, 1, 1]
+transposition
+bumped -> bupmped
+word: bumped ->bupmped
+['bumped']
+[1, 1, 1]
+transposition
+ngo -> gngo
+word: ngo ->gngo
+['ngo']
+[1, 1, 1]
+insertion
+wholesale -> wheolesale
+word: wholesale ->wheolesale
+['wholesale']
+[1, 1, 1]
+replacement
+messing -> msssing
+word: messing ->msssing
+['messing', 'missing']
+[1, 1, 1]
+replacement
+japan -> janan
+word: japan ->janan
+['japan', 'jinan', 'yanan']
+[1, 1, 1]
+replacement
+screening -> screening
+word: screening ->screening
+['screening']
+[1, 1, 1]
+insertion
+vain -> lvain
+word: vain ->lvain
+['vain']
+[1, 1, 1]
+deletion
+indifferent -> inifferent
+word: indifferent ->inifferent
+['indifferent']
+[1, 1, 1]
+deletion
+hot -> ot
+word: hot ->ot
+['t', 'lot', 'got']
+[0, 0, 0]
+insertion
+mineral -> minerall
+word: mineral ->minerall
+['mineral', 'minerals']
+[1, 1, 1]
+insertion
+heights -> jheights
+word: heights ->jheights
+['heights']
+[1, 1, 1]
+insertion
+negotiable -> negotiaxble
+word: negotiable ->negotiaxble
+['negotiable']
+[1, 1, 1]
+deletion
+spur -> spr
+word: spur ->spr
+['spy', 'spc', 'spur']
+[0, 0, 1]
+insertion
+coexistence -> coexistencex
+word: coexistence ->coexistencex
+['coexistence']
+[1, 1, 1]
+replacement
+regular -> reguljr
+word: regular ->reguljr
+['regular']
+[1, 1, 1]
+transposition
+refusing -> reufusing
+word: refusing ->reufusing
+['refusing']
+[1, 1, 1]
+deletion
+exchanging -> excanging
+word: exchanging ->excanging
+['exchanging']
+[1, 1, 1]
+transposition
+quarter -> quatrter
+word: quarter ->quatrter
+['quarter']
+[1, 1, 1]
+replacement
+width -> widtc
+word: width ->widtc
+['width']
+[1, 1, 1]
+transposition
+promoting -> poromoting
+word: promoting ->poromoting
+['promoting']
+[1, 1, 1]
+replacement
+carpet -> cfrpet
+word: carpet ->cfrpet
+['carpet']
+[1, 1, 1]
+deletion
+income -> incom
+word: income ->incom
+['income']
+[1, 1, 1]
+transposition
+cease -> ceaese
+word: cease ->ceaese
+['cease']
+[1, 1, 1]
+replacement
+feet -> fbet
+word: feet ->fbet
+['feet']
+[1, 1, 1]
+deletion
+numbered -> numberd
+word: numbered ->numberd
+['number', 'numbers', 'numbered']
+[0, 0, 1]
+transposition
+paying -> apaying
+word: paying ->apaying
+['paying']
+[1, 1, 1]
+deletion
+abdullah -> adullah
+word: abdullah ->adullah
+['abdullah']
+[1, 1, 1]
+deletion
+refusal -> reusal
+word: refusal ->reusal
+['refusal']
+[1, 1, 1]
+insertion
+informal -> informalt
+word: informal ->informalt
+['informal']
+[1, 1, 1]
+transposition
+gangchuan -> gagngchuan
+word: gangchuan ->gagngchuan
+['gangchuan']
+[1, 1, 1]
+replacement
+antiscientific -> anxiscientific
+word: antiscientific ->anxiscientific
+['antiscientific']
+[1, 1, 1]
+transposition
+bearings -> bearigngs
+word: bearings ->bearigngs
+['bearings']
+[1, 1, 1]
+deletion
+yearend -> yeaend
+word: yearend ->yeaend
+['yearend']
+[1, 1, 1]
+replacement
+falls -> falhs
+word: falls ->falhs
+['falls']
+[1, 1, 1]
+replacement
+name -> pame
+word: name ->pame
+['game', 'name', 'page']
+[0, 1, 1]
+insertion
+setting -> shetting
+word: setting ->shetting
+['setting']
+[1, 1, 1]
+insertion
+commodities -> comgmodities
+word: commodities ->comgmodities
+['commodities']
+[1, 1, 1]
+insertion
+swollen -> swofllen
+word: swollen ->swofllen
+['swollen']
+[1, 1, 1]
+transposition
+circumvents -> circumvnents
+word: circumvents ->circumvnents
+['circumvents']
+[1, 1, 1]
+replacement
+merger -> mmrger
+word: merger ->mmrger
+['merger']
+[1, 1, 1]
+deletion
+politician -> politiian
+word: politician ->politiian
+['politician']
+[1, 1, 1]
+insertion
+rockets -> rocketps
+word: rockets ->rocketps
+['rockets']
+[1, 1, 1]
+replacement
+tells -> tellv
+word: tells ->tellv
+['tell', 'tells']
+[0, 1, 1]
+insertion
+sky -> skyz
+word: sky ->skyz
+['sky']
+[1, 1, 1]
+transposition
+campaigning -> campaigining
+word: campaigning ->campaigining
+['campaigning']
+[1, 1, 1]
+insertion
+sagacity -> sagnacity
+word: sagacity ->sagnacity
+['sagacity']
+[1, 1, 1]
+transposition
+faulty -> fuaulty
+word: faulty ->fuaulty
+['faulty']
+[1, 1, 1]
+transposition
+enforcement -> enforceement
+word: enforcement ->enforceement
+['enforcement']
+[1, 1, 1]
+replacement
+buildings -> buildingo
+word: buildings ->buildingo
+['building', 'buildings']
+[0, 1, 1]
+transposition
+passage -> pasasage
+word: passage ->pasasage
+['passage']
+[1, 1, 1]
+replacement
+expositions -> expositioks
+word: expositions ->expositioks
+['expositions']
+[1, 1, 1]
+deletion
+asking -> aking
+word: asking ->aking
+['king', 'making', 'asking']
+[0, 0, 1]
+insertion
+guangen -> gutangen
+word: guangen ->gutangen
+['guangen']
+[1, 1, 1]
+insertion
+banners -> bannerws
+word: banners ->bannerws
+['banners']
+[1, 1, 1]
+deletion
+sex -> ex
+word: sex ->ex
+['en', 'el', 'eu']
+[0, 0, 0]
+replacement
+forthcoming -> ferthcoming
+word: forthcoming ->ferthcoming
+['forthcoming']
+[1, 1, 1]
+deletion
+attenuation -> attenuatin
+word: attenuation ->attenuatin
+['attenuation']
+[1, 1, 1]
+replacement
+violating -> violbting
+word: violating ->violbting
+['violating']
+[1, 1, 1]
+insertion
+ruan -> rsuan
+word: ruan ->rsuan
+['ruan']
+[1, 1, 1]
+insertion
+stage -> wstage
+word: stage ->wstage
+['stage']
+[1, 1, 1]
+replacement
+disappeared -> disappeamed
+word: disappeared ->disappeamed
+['disappeared']
+[1, 1, 1]
+deletion
+penalties -> penaltie
+word: penalties ->penaltie
+['penalties']
+[1, 1, 1]
+deletion
+rendering -> redering
+word: rendering ->redering
+['rendering']
+[1, 1, 1]
+deletion
+eu -> u
+word: eu ->u
+['u', 't', 'a']
+[0, 0, 0]
+deletion
+cmc -> cc
+word: cmc ->cc
+['cc', 'c', 'lc']
+[0, 0, 0]
+replacement
+tian -> tkan
+word: tian ->tkan
+['tran', 'tian', 'than']
+[0, 1, 1]
+insertion
+zhijie -> zhijime
+word: zhijie ->zhijime
+['zhijie']
+[1, 1, 1]
+insertion
+suppliers -> suppsliers
+word: suppliers ->suppsliers
+['suppliers']
+[1, 1, 1]
+insertion
+bind -> bihnd
+word: bind ->bihnd
+['bind']
+[1, 1, 1]
+replacement
+logically -> logidally
+word: logically ->logidally
+['logically']
+[1, 1, 1]
+insertion
+killings -> killinngs
+word: killings ->killinngs
+['killings']
+[1, 1, 1]
+deletion
+se -> e
+word: se ->e
+['t', 'a', 'i']
+[0, 0, 0]
+replacement
+keeping -> keepinj
+word: keeping ->keepinj
+['keeping']
+[1, 1, 1]
+deletion
+complementary -> coplementary
+word: complementary ->coplementary
+['complementary']
+[1, 1, 1]
+insertion
+railway -> railwayo
+word: railway ->railwayo
+['railway', 'railways']
+[1, 1, 1]
+replacement
+lively -> liveli
+word: lively ->liveli
+['lively']
+[1, 1, 1]
+transposition
+model -> omodel
+word: model ->omodel
+['model']
+[1, 1, 1]
+replacement
+uss -> uus
+word: uss ->uus
+['us', 'ups', 'uss']
+[0, 0, 1]
+transposition
+curry -> curyry
+word: curry ->curyry
+['curry']
+[1, 1, 1]
+insertion
+umbrella -> umbrellax
+word: umbrella ->umbrellax
+['umbrella']
+[1, 1, 1]
+replacement
+unwilling -> uawilling
+word: unwilling ->uawilling
+['unwilling']
+[1, 1, 1]
+deletion
+guests -> uests
+word: guests ->uests
+['guests', 'rests', 'tests']
+[1, 1, 1]
+replacement
+promote -> promoye
+word: promote ->promoye
+['promote']
+[1, 1, 1]
+transposition
+purely -> pureyly
+word: purely ->pureyly
+['purely']
+[1, 1, 1]
+deletion
+paid -> pai
+word: paid ->pai
+['lai', 'dai', 'pay']
+[0, 0, 0]
+deletion
+line -> ine
+word: line ->ine
+['line', 'mine', 'nine']
+[1, 1, 1]
+deletion
+steadfast -> steadast
+word: steadfast ->steadast
+['steadfast']
+[1, 1, 1]
+insertion
+commentary -> commenqtary
+word: commentary ->commenqtary
+['commentary']
+[1, 1, 1]
+replacement
+pongee -> nongee
+word: pongee ->nongee
+['pongee']
+[1, 1, 1]
+replacement
+academicians -> acadumicians
+word: academicians ->acadumicians
+['academicians']
+[1, 1, 1]
+replacement
+leaving -> leavinp
+word: leaving ->leavinp
+['leaving']
+[1, 1, 1]
+insertion
+pesos -> puesos
+word: pesos ->puesos
+['pesos']
+[1, 1, 1]
+insertion
+matching -> maltching
+word: matching ->maltching
+['matching']
+[1, 1, 1]
+deletion
+result -> esult
+word: result ->esult
+['result']
+[1, 1, 1]
+deletion
+appropriately -> appopriately
+word: appropriately ->appopriately
+['appropriately']
+[1, 1, 1]
+deletion
+ismail -> imail
+word: ismail ->imail
+['mail', 'ismail']
+[0, 1, 1]
+transposition
+jisi -> jsisi
+word: jisi ->jsisi
+['jisi']
+[1, 1, 1]
+insertion
+something -> somethingg
+word: something ->somethingg
+['something']
+[1, 1, 1]
+deletion
+fact -> fat
+word: fact ->fat
+['eat', 'hat', 'far']
+[0, 0, 0]
+replacement
+solution -> soluzion
+word: solution ->soluzion
+['solution']
+[1, 1, 1]
+transposition
+balking -> abalking
+word: balking ->abalking
+['balking']
+[1, 1, 1]
+replacement
+annette -> annettn
+word: annette ->annettn
+['annette']
+[1, 1, 1]
+transposition
+strike -> strkike
+word: strike ->strkike
+['strike']
+[1, 1, 1]
+replacement
+talents -> talenbs
+word: talents ->talenbs
+['talents']
+[1, 1, 1]
+replacement
+peasants -> peasantn
+word: peasants ->peasantn
+['peasant', 'peasants']
+[0, 1, 1]
+deletion
+sooner -> soone
+word: sooner ->soone
+['soon', 'soong', 'sooner']
+[0, 0, 1]
+deletion
+beautify -> bautify
+word: beautify ->bautify
+['beautify']
+[1, 1, 1]
+deletion
+secure -> seure
+word: secure ->seure
+['sure', 'secure']
+[0, 1, 1]
+deletion
+course -> cours
+word: course ->cours
+['hours', 'court', 'courts']
+[0, 0, 0]
+insertion
+celebration -> celebratlion
+word: celebration ->celebratlion
+['celebration']
+[1, 1, 1]
+replacement
+provinces -> provincex
+word: provinces ->provincex
+['province', 'provinces']
+[0, 1, 1]
+deletion
+recreating -> receating
+word: recreating ->receating
+['recreating']
+[1, 1, 1]
+insertion
+beliefs -> belsiefs
+word: beliefs ->belsiefs
+['beliefs']
+[1, 1, 1]
+replacement
+taiwan -> taiwak
+word: taiwan ->taiwak
+['taiwan']
+[1, 1, 1]
+insertion
+parts -> pdarts
+word: parts ->pdarts
+['parts']
+[1, 1, 1]
+replacement
+blames -> blamws
+word: blames ->blamws
+['blames']
+[1, 1, 1]
+transposition
+uneasiness -> nuneasiness
+word: uneasiness ->nuneasiness
+['uneasiness']
+[1, 1, 1]
+transposition
+saw -> asaw
+word: saw ->asaw
+['saw', 'asad']
+[1, 1, 1]
+insertion
+revolutionaries -> revoluwtionaries
+word: revolutionaries ->revoluwtionaries
+['revolutionaries']
+[1, 1, 1]
+deletion
+third -> thrd
+word: third ->thrd
+['third']
+[1, 1, 1]
+insertion
+number -> numbcer
+word: number ->numbcer
+['number']
+[1, 1, 1]
+transposition
+contraceptive -> contracepitive
+word: contraceptive ->contracepitive
+['contraceptive']
+[1, 1, 1]
+transposition
+complexity -> ocomplexity
+word: complexity ->ocomplexity
+['complexity']
+[1, 1, 1]
+insertion
+guaranteeing -> guaranteeinrg
+word: guaranteeing ->guaranteeinrg
+['guaranteeing']
+[1, 1, 1]
+transposition
+we -> ewe
+word: we ->ewe
+['eye', 'eve', 'we']
+[0, 0, 1]
+deletion
+conservative -> conservaive
+word: conservative ->conservaive
+['conservative']
+[1, 1, 1]
+replacement
+double -> doublw
+word: double ->doublw
+['double', 'doubly']
+[1, 1, 1]
+insertion
+trilogy -> itrilogy
+word: trilogy ->itrilogy
+['trilogy']
+[1, 1, 1]
+deletion
+provincial -> provincil
+word: provincial ->provincil
+['provincial']
+[1, 1, 1]
+replacement
+jiangsu -> jiangvu
+word: jiangsu ->jiangvu
+['jiangsu']
+[1, 1, 1]
+replacement
+endless -> endlyss
+word: endless ->endlyss
+['endless']
+[1, 1, 1]
+replacement
+showmanship -> showmaqship
+word: showmanship ->showmaqship
+['showmanship']
+[1, 1, 1]
+transposition
+rogues -> rougues
+word: rogues ->rougues
+['rogues']
+[1, 1, 1]
+transposition
+retaining -> rtetaining
+word: retaining ->rtetaining
+['retaining']
+[1, 1, 1]
+replacement
+drafting -> draftivg
+word: drafting ->draftivg
+['drafting']
+[1, 1, 1]
+transposition
+spies -> pspies
+word: spies ->pspies
+['spies']
+[1, 1, 1]
+replacement
+keypoint -> keypxint
+word: keypoint ->keypxint
+['keypoint']
+[1, 1, 1]
+deletion
+however -> howevr
+word: however ->howevr
+['however']
+[1, 1, 1]
+replacement
+anduo -> andul
+word: anduo ->andul
+['anduo']
+[1, 1, 1]
+replacement
+fuzhou -> fuzhou
+word: fuzhou ->fuzhou
+['fuzhou', 'suzhou']
+[1, 1, 1]
+deletion
+pull -> pul
+word: pull ->pul
+['jul', 'pu', 'put']
+[0, 0, 0]
+transposition
+coerced -> ceoerced
+word: coerced ->ceoerced
+['coerced']
+[1, 1, 1]
+transposition
+laden -> ladnen
+word: laden ->ladnen
+['laden']
+[1, 1, 1]
+insertion
+defendants -> defendantcs
+word: defendants ->defendantcs
+['defendants']
+[1, 1, 1]
+insertion
+premier -> ppremier
+word: premier ->ppremier
+['premier']
+[1, 1, 1]
+deletion
+officers -> offiers
+word: officers ->offiers
+['officers']
+[1, 1, 1]
+deletion
+alarm -> alar
+word: alarm ->alar
+['afar', 'alarm']
+[0, 1, 1]
+insertion
+reasonable -> reasontable
+word: reasonable ->reasontable
+['reasonable']
+[1, 1, 1]
+deletion
+guihe -> gihe
+word: guihe ->gihe
+['guihe', 'give']
+[1, 1, 1]
+insertion
+grasp -> gurasp
+word: grasp ->gurasp
+['grasp']
+[1, 1, 1]
+insertion
+woes -> woesb
+word: woes ->woesb
+['woes']
+[1, 1, 1]
+replacement
+urging -> urgbng
+word: urging ->urgbng
+['urging']
+[1, 1, 1]
+replacement
+grew -> grlw
+word: grew ->grlw
+['grow', 'grew']
+[0, 1, 1]
+transposition
+exposing -> exposigng
+word: exposing ->exposigng
+['exposing']
+[1, 1, 1]
+deletion
+soong -> soon
+word: soong ->soon
+['soon', 'son', 'sown']
+[0, 0, 0]
+replacement
+steady -> stoady
+word: steady ->stoady
+['steady']
+[1, 1, 1]
+deletion
+seoul -> soul
+word: seoul ->soul
+['soul', 'seoul', 'soil']
+[0, 1, 1]
+replacement
+arrived -> abrived
+word: arrived ->abrived
+['arrived']
+[1, 1, 1]
+replacement
+classrooms -> clabsrooms
+word: classrooms ->clabsrooms
+['classrooms']
+[1, 1, 1]
+replacement
+bingguo -> bfngguo
+word: bingguo ->bfngguo
+['bangguo', 'bingguo']
+[0, 1, 1]
+replacement
+cardiovascular -> cardiovagcular
+word: cardiovascular ->cardiovagcular
+['cardiovascular']
+[1, 1, 1]
+transposition
+incalculable -> incalculabele
+word: incalculable ->incalculabele
+['incalculable']
+[1, 1, 1]
+transposition
+manifests -> mnanifests
+word: manifests ->mnanifests
+['manifests']
+[1, 1, 1]
+transposition
+zhi -> hzhi
+word: zhi ->hzhi
+['zhi']
+[1, 1, 1]
+insertion
+network -> netwohrk
+word: network ->netwohrk
+['network']
+[1, 1, 1]
+transposition
+settle -> setltle
+word: settle ->setltle
+['settle']
+[1, 1, 1]
+insertion
+solid -> soliid
+word: solid ->soliid
+['solid']
+[1, 1, 1]
+transposition
+forms -> oforms
+word: forms ->oforms
+['forms']
+[1, 1, 1]
+transposition
+proposals -> propoasals
+word: proposals ->propoasals
+['proposals']
+[1, 1, 1]
+replacement
+indefinite -> indeqinite
+word: indefinite ->indeqinite
+['indefinite']
+[1, 1, 1]
+replacement
+queries -> queties
+word: queries ->queties
+['queries']
+[1, 1, 1]
+transposition
+procuring -> procurigng
+word: procuring ->procurigng
+['procuring']
+[1, 1, 1]
+transposition
+pretexts -> pretexsts
+word: pretexts ->pretexsts
+['pretexts']
+[1, 1, 1]
+transposition
+symposium -> ysymposium
+word: symposium ->ysymposium
+['symposium']
+[1, 1, 1]
+transposition
+rumbled -> rumblded
+word: rumbled ->rumblded
+['rumbled']
+[1, 1, 1]
+transposition
+congratulatory -> cogngratulatory
+word: congratulatory ->cogngratulatory
+['congratulatory']
+[1, 1, 1]
+replacement
+promotes -> promojes
+word: promotes ->promojes
+['promotes']
+[1, 1, 1]
+replacement
+take -> tvke
+word: take ->tvke
+['take']
+[1, 1, 1]
+replacement
+joined -> joxned
+word: joined ->joxned
+['joined']
+[1, 1, 1]
+deletion
+orderly -> orerly
+word: orderly ->orerly
+['orderly']
+[1, 1, 1]
+replacement
+original -> origigal
+word: original ->origigal
+['original']
+[1, 1, 1]
+insertion
+formally -> formaloly
+word: formally ->formaloly
+['formally']
+[1, 1, 1]
+transposition
+middle -> imiddle
+word: middle ->imiddle
+['middle']
+[1, 1, 1]
+replacement
+hsu -> hzu
+word: hsu ->hzu
+['zhu', 'hu', 'hsu']
+[0, 0, 1]
+deletion
+harm -> har
+word: harm ->har
+['mar', 'bar', 'war']
+[0, 0, 0]
+deletion
+punished -> puished
+word: punished ->puished
+['punished', 'pushed']
+[1, 1, 1]
+transposition
+diplomatic -> diplmomatic
+word: diplomatic ->diplmomatic
+['diplomatic']
+[1, 1, 1]
+replacement
+schoolwork -> schoelwork
+word: schoolwork ->schoelwork
+['schoolwork']
+[1, 1, 1]
+deletion
+conventions -> coventions
+word: conventions ->coventions
+['conventions']
+[1, 1, 1]
+replacement
+declarations -> declwrations
+word: declarations ->declwrations
+['declarations']
+[1, 1, 1]
+deletion
+went -> wet
+word: went ->wet
+['let', 'yet', 'met']
+[0, 0, 0]
+transposition
+reunified -> reunifeied
+word: reunified ->reunifeied
+['reunified']
+[1, 1, 1]
+deletion
+became -> bcame
+word: became ->bcame
+['blame', 'became', 'came']
+[0, 1, 1]
+insertion
+obsessed -> eobsessed
+word: obsessed ->eobsessed
+['obsessed']
+[1, 1, 1]
+deletion
+ghost -> ghot
+word: ghost ->ghot
+['ghost', 'got', 'hot']
+[1, 1, 1]
+transposition
+jiabao -> jiaabao
+word: jiabao ->jiaabao
+['jiabao']
+[1, 1, 1]
+deletion
+greece -> grece
+word: greece ->grece
+['greece']
+[1, 1, 1]
+insertion
+launchers -> launchersu
+word: launchers ->launchersu
+['launchers']
+[1, 1, 1]
+deletion
+stays -> stas
+word: stays ->stas
+['seas', 'stab', 'star']
+[0, 0, 0]
+replacement
+sorry -> snrry
+word: sorry ->snrry
+['sorry']
+[1, 1, 1]
+deletion
+lai -> la
+word: lai ->la
+['la', 'a', 'li']
+[0, 0, 0]
+transposition
+emphasis -> emphsasis
+word: emphasis ->emphsasis
+['emphasis']
+[1, 1, 1]
+transposition
+scientists -> scientitsts
+word: scientists ->scientitsts
+['scientists']
+[1, 1, 1]
+deletion
+anthony -> nthony
+word: anthony ->nthony
+['anthony']
+[1, 1, 1]
+deletion
+erdaohe -> eraohe
+word: erdaohe ->eraohe
+['erdaohe']
+[1, 1, 1]
+insertion
+requires -> requvires
+word: requires ->requvires
+['requires']
+[1, 1, 1]
+replacement
+drew -> dkew
+word: drew ->dkew
+['drew']
+[1, 1, 1]
+replacement
+monopolies -> konopolies
+word: monopolies ->konopolies
+['monopolies']
+[1, 1, 1]
+replacement
+banks -> banko
+word: banks ->banko
+['bank', 'banks']
+[0, 1, 1]
+deletion
+promotes -> promote
+word: promotes ->promote
+['promote', 'promoted', 'promotes']
+[0, 0, 1]
+insertion
+commissions -> commissigons
+word: commissions ->commissigons
+['commissions']
+[1, 1, 1]
+insertion
+stages -> istages
+word: stages ->istages
+['stages']
+[1, 1, 1]
+insertion
+convening -> bconvening
+word: convening ->bconvening
+['convening']
+[1, 1, 1]
+deletion
+widening -> widenng
+word: widening ->widenng
+['widening']
+[1, 1, 1]
+deletion
+indexes -> indxes
+word: indexes ->indxes
+['indexes']
+[1, 1, 1]
+transposition
+ping -> pigng
+word: ping ->pigng
+['ping']
+[1, 1, 1]
+replacement
+afraid -> afiaid
+word: afraid ->afiaid
+['afraid']
+[1, 1, 1]
+replacement
+home -> homv
+word: home ->homv
+['home']
+[1, 1, 1]
+deletion
+cmte -> cte
+word: cmte ->cte
+['ctc', 'cmte', 'cite']
+[0, 1, 1]
+replacement
+amending -> amegding
+word: amending ->amegding
+['amending']
+[1, 1, 1]
+transposition
+guiyu -> uguiyu
+word: guiyu ->uguiyu
+['guiyu']
+[1, 1, 1]
+insertion
+buildings -> bxuildings
+word: buildings ->bxuildings
+['buildings']
+[1, 1, 1]
+transposition
+theater -> thetater
+word: theater ->thetater
+['theater']
+[1, 1, 1]
+replacement
+cradle -> cradce
+word: cradle ->cradce
+['cradle']
+[1, 1, 1]
+transposition
+specialists -> specialissts
+word: specialists ->specialissts
+['specialists']
+[1, 1, 1]
+transposition
+refine -> refnine
+word: refine ->refnine
+['refine']
+[1, 1, 1]
+replacement
+mall -> mwll
+word: mall ->mwll
+['mall']
+[1, 1, 1]
+deletion
+output -> outpu
+word: output ->outpu
+['output']
+[1, 1, 1]
+replacement
+explored -> explorod
+word: explored ->explorod
+['explored']
+[1, 1, 1]
+transposition
+bystander -> bystandrer
+word: bystander ->bystandrer
+['bystander']
+[1, 1, 1]
+replacement
+hawaiian -> halaiian
+word: hawaiian ->halaiian
+['hawaiian']
+[1, 1, 1]
+insertion
+jiangmen -> jiangdmen
+word: jiangmen ->jiangdmen
+['jiangmen']
+[1, 1, 1]
+transposition
+waiting -> waitning
+word: waiting ->waitning
+['waiting']
+[1, 1, 1]
+deletion
+dpp -> dp
+word: dpp ->dp
+['p', 'd', 'ldp']
+[0, 0, 0]
+insertion
+earnest -> earnestq
+word: earnest ->earnestq
+['earnest']
+[1, 1, 1]
+deletion
+reporting -> reportin
+word: reporting ->reportin
+['reporting']
+[1, 1, 1]
+deletion
+fees -> fee
+word: fees ->fee
+['fee', 'lee', 'few']
+[0, 0, 0]
+deletion
+cases -> cses
+word: cases ->cses
+['uses', 'cases']
+[0, 1, 1]
+transposition
+specially -> pspecially
+word: specially ->pspecially
+['especially', 'specially']
+[0, 1, 1]
+insertion
+assets -> asseqts
+word: assets ->asseqts
+['assets']
+[1, 1, 1]
+deletion
+month -> mont
+word: month ->mont
+['month', 'most']
+[1, 1, 1]
+insertion
+accomplishments -> accomplishmentsw
+word: accomplishments ->accomplishmentsw
+['accomplishments']
+[1, 1, 1]
+deletion
+stayed -> sayed
+word: stayed ->sayed
+['stayed']
+[1, 1, 1]
+transposition
+tricking -> trickigng
+word: tricking ->trickigng
+['tricking']
+[1, 1, 1]
+replacement
+description -> dvscription
+word: description ->dvscription
+['description']
+[1, 1, 1]
+transposition
+representing -> reprsesenting
+word: representing ->reprsesenting
+['representing']
+[1, 1, 1]
+deletion
+disseminated -> dsseminated
+word: disseminated ->dsseminated
+['disseminated']
+[1, 1, 1]
+transposition
+powers -> opowers
+word: powers ->opowers
+['powers']
+[1, 1, 1]
+transposition
+soe -> seoe
+word: soe ->seoe
+['see', 'soe']
+[0, 1, 1]
+transposition
+assigned -> sassigned
+word: assigned ->sassigned
+['assigned']
+[1, 1, 1]
+transposition
+loans -> laoans
+word: loans ->laoans
+['loans']
+[1, 1, 1]
+insertion
+golden -> xgolden
+word: golden ->xgolden
+['golden']
+[1, 1, 1]
+insertion
+readjustments -> readjustqments
+word: readjustments ->readjustqments
+['readjustments']
+[1, 1, 1]
+insertion
+continued -> continuedf
+word: continued ->continuedf
+['continued']
+[1, 1, 1]
+deletion
+economical -> eonomical
+word: economical ->eonomical
+['economical']
+[1, 1, 1]
+insertion
+slab -> sklab
+word: slab ->sklab
+['slab']
+[1, 1, 1]
+insertion
+blair -> blairw
+word: blair ->blairw
+['blair']
+[1, 1, 1]
+replacement
+repeatedly -> oepeatedly
+word: repeatedly ->oepeatedly
+['repeatedly']
+[1, 1, 1]
+replacement
+terminal -> terminal
+word: terminal ->terminal
+['terminal', 'terminals']
+[1, 1, 1]
+insertion
+qamdo -> qajmdo
+word: qamdo ->qajmdo
+['qamdo']
+[1, 1, 1]
+transposition
+thinks -> thinsks
+word: thinks ->thinsks
+['thinks']
+[1, 1, 1]
+deletion
+inspiration -> inpiration
+word: inspiration ->inpiration
+['inspiration']
+[1, 1, 1]
+transposition
+basis -> bassis
+word: basis ->bassis
+['basis']
+[1, 1, 1]
+transposition
+huaren -> uhuaren
+word: huaren ->uhuaren
+['huaren']
+[1, 1, 1]
+transposition
+jeopardize -> joeopardize
+word: jeopardize ->joeopardize
+['jeopardize']
+[1, 1, 1]
+deletion
+counteracting -> counteractin
+word: counteracting ->counteractin
+['counteracting']
+[1, 1, 1]
+deletion
+australia -> australa
+word: australia ->australa
+['australia']
+[1, 1, 1]
+replacement
+electric -> elvctric
+word: electric ->elvctric
+['electric']
+[1, 1, 1]
+replacement
+academic -> acaoemic
+word: academic ->acaoemic
+['academic']
+[1, 1, 1]
+deletion
+wages -> ages
+word: wages ->ages
+['wages', 'age']
+[1, 1, 1]
+replacement
+passing -> vassing
+word: passing ->vassing
+['passing']
+[1, 1, 1]
+insertion
+arrears -> arrevars
+word: arrears ->arrevars
+['arrears']
+[1, 1, 1]
+insertion
+moreover -> moreoiver
+word: moreover ->moreoiver
+['moreover']
+[1, 1, 1]
+transposition
+tactic -> tactcic
+word: tactic ->tactcic
+['tactic']
+[1, 1, 1]
+replacement
+lead -> leah
+word: lead ->leah
+['lead', 'leap']
+[1, 1, 1]
+replacement
+master -> mastem
+word: master ->mastem
+['master']
+[1, 1, 1]
+replacement
+vista -> visth
+word: vista ->visth
+['vista']
+[1, 1, 1]
+deletion
+henceforth -> heceforth
+word: henceforth ->heceforth
+['henceforth']
+[1, 1, 1]
+insertion
+brunei -> brunzei
+word: brunei ->brunzei
+['brunei']
+[1, 1, 1]
+replacement
+staged -> stcged
+word: staged ->stcged
+['staged']
+[1, 1, 1]
+transposition
+give -> gieve
+word: give ->gieve
+['give']
+[1, 1, 1]
+transposition
+incessant -> icncessant
+word: incessant ->icncessant
+['incessant']
+[1, 1, 1]
+transposition
+conditions -> cnonditions
+word: conditions ->cnonditions
+['conditions']
+[1, 1, 1]
+deletion
+thankful -> thankul
+word: thankful ->thankul
+['thankful']
+[1, 1, 1]
+insertion
+tsai -> tqsai
+word: tsai ->tqsai
+['tsai']
+[1, 1, 1]
+insertion
+organizations -> ocrganizations
+word: organizations ->ocrganizations
+['organizations']
+[1, 1, 1]
+transposition
+digitalization -> digitaliazation
+word: digitalization ->digitaliazation
+['digitalization']
+[1, 1, 1]
+deletion
+venereal -> venerel
+word: venereal ->venerel
+['venereal']
+[1, 1, 1]
+transposition
+stays -> tstays
+word: stays ->tstays
+['stays']
+[1, 1, 1]
+transposition
+counterattacks -> coutnterattacks
+word: counterattacks ->coutnterattacks
+['counterattacks']
+[1, 1, 1]
+insertion
+guihe -> gcuihe
+word: guihe ->gcuihe
+['guihe']
+[1, 1, 1]
+replacement
+conspiracy -> zonspiracy
+word: conspiracy ->zonspiracy
+['conspiracy']
+[1, 1, 1]
+deletion
+dependants -> ependants
+word: dependants ->ependants
+['dependants']
+[1, 1, 1]
+insertion
+ecological -> ecmological
+word: ecological ->ecmological
+['ecological']
+[1, 1, 1]
+transposition
+yongjun -> yogngjun
+word: yongjun ->yogngjun
+['yongjun']
+[1, 1, 1]
+transposition
+refusing -> refuising
+word: refusing ->refuising
+['refusing']
+[1, 1, 1]
+replacement
+brook -> bdook
+word: brook ->bdook
+['brook', 'book']
+[1, 1, 1]
+transposition
+format -> foramat
+word: format ->foramat
+['format']
+[1, 1, 1]
+replacement
+parents -> parhnts
+word: parents ->parhnts
+['parents']
+[1, 1, 1]
+transposition
+mainly -> mailnly
+word: mainly ->mailnly
+['mainly']
+[1, 1, 1]
+transposition
+serbs -> sersbs
+word: serbs ->sersbs
+['serbs']
+[1, 1, 1]
+insertion
+countering -> cokuntering
+word: countering ->cokuntering
+['countering']
+[1, 1, 1]
+replacement
+occasion -> occalion
+word: occasion ->occalion
+['occasion']
+[1, 1, 1]
+deletion
+elder -> eler
+word: elder ->eler
+['elder', 'ever']
+[1, 1, 1]
+transposition
+buffer -> bfuffer
+word: buffer ->bfuffer
+['buffer']
+[1, 1, 1]
+insertion
+serviceman -> seyrviceman
+word: serviceman ->seyrviceman
+['serviceman']
+[1, 1, 1]
+replacement
+korea -> kbrea
+word: korea ->kbrea
+['korea']
+[1, 1, 1]
+deletion
+exceeds -> excees
+word: exceeds ->excees
+['exceeds']
+[1, 1, 1]
+deletion
+entails -> etails
+word: entails ->etails
+['entails', 'details']
+[1, 1, 1]
+insertion
+corporate -> hcorporate
+word: corporate ->hcorporate
+['corporate']
+[1, 1, 1]
+insertion
+qatar -> qatcar
+word: qatar ->qatcar
+['qatar']
+[1, 1, 1]
+deletion
+sustainable -> sstainable
+word: sustainable ->sstainable
+['sustainable']
+[1, 1, 1]
+deletion
+rallying -> rallyin
+word: rallying ->rallyin
+['rallying']
+[1, 1, 1]
+transposition
+extraordinarily -> extraoridinarily
+word: extraordinarily ->extraoridinarily
+['extraordinarily']
+[1, 1, 1]
+transposition
+alternative -> alternatieve
+word: alternative ->alternatieve
+['alternative']
+[1, 1, 1]
+transposition
+poverty -> poveryty
+word: poverty ->poveryty
+['poverty']
+[1, 1, 1]
+transposition
+educates -> educaetes
+word: educates ->educaetes
+['educates']
+[1, 1, 1]
+insertion
+metaphysical -> meetaphysical
+word: metaphysical ->meetaphysical
+['metaphysical']
+[1, 1, 1]
+transposition
+meant -> meatnt
+word: meant ->meatnt
+['meant']
+[1, 1, 1]
+transposition
+australian -> austrailian
+word: australian ->austrailian
+['australian']
+[1, 1, 1]
+replacement
+pressure -> pzessure
+word: pressure ->pzessure
+['pressure']
+[1, 1, 1]
+deletion
+manlong -> manlon
+word: manlong ->manlon
+['manlong']
+[1, 1, 1]
+insertion
+sudden -> suddean
+word: sudden ->suddean
+['sudden']
+[1, 1, 1]
+replacement
+refutable -> refutalle
+word: refutable ->refutalle
+['refutable']
+[1, 1, 1]
+transposition
+eat -> aeat
+word: eat ->aeat
+['meat', 'eat', 'heat']
+[0, 1, 1]
+insertion
+steiner -> steinerw
+word: steiner ->steinerw
+['steiner']
+[1, 1, 1]
+insertion
+peasants -> peasantgs
+word: peasants ->peasantgs
+['peasants']
+[1, 1, 1]
+insertion
+needed -> neededd
+word: needed ->neededd
+['needed']
+[1, 1, 1]
+insertion
+republic -> republivc
+word: republic ->republivc
+['republic']
+[1, 1, 1]
+insertion
+corporation -> corporahtion
+word: corporation ->corporahtion
+['corporation']
+[1, 1, 1]
+transposition
+turvy -> trurvy
+word: turvy ->trurvy
+['turvy']
+[1, 1, 1]
+transposition
+invincible -> ivnvincible
+word: invincible ->ivnvincible
+['invincible']
+[1, 1, 1]
+replacement
+pace -> pacv
+word: pace ->pacv
+['pace', 'pact']
+[1, 1, 1]
+deletion
+unanimously -> unnimously
+word: unanimously ->unnimously
+['unanimously']
+[1, 1, 1]
+insertion
+gunner -> gyunner
+word: gunner ->gyunner
+['gunner']
+[1, 1, 1]
+replacement
+miles -> milos
+word: miles ->milos
+['kilos', 'miles']
+[0, 1, 1]
+transposition
+mergers -> meregers
+word: mergers ->meregers
+['mergers']
+[1, 1, 1]
+deletion
+add -> ad
+word: add ->ad
+['ad', 'a', 'd']
+[0, 0, 0]
+transposition
+cultivating -> cultvivating
+word: cultivating ->cultvivating
+['cultivating']
+[1, 1, 1]
+deletion
+bouteflika -> boueflika
+word: bouteflika ->boueflika
+['bouteflika']
+[1, 1, 1]
+replacement
+sharp -> shawp
+word: sharp ->shawp
+['shaw', 'sharp']
+[0, 1, 1]
+transposition
+oman -> omnan
+word: oman ->omnan
+['oman']
+[1, 1, 1]
+transposition
+berths -> eberths
+word: berths ->eberths
+['berths']
+[1, 1, 1]
+insertion
+guangsheng -> gguangsheng
+word: guangsheng ->gguangsheng
+['guangsheng']
+[1, 1, 1]
+[0.882, 0.938, 0.955]
+[0.6763485477178424, 0.7966804979253111, 0.8506224066390041]
+[0.9954954954954955, 1.0, 1.0]
+[0.9007352941176471, 0.9669117647058824, 0.9779411764705882]
+[0.9547169811320755, 0.9849056603773585, 0.9886792452830189]
+test vocabulary end
